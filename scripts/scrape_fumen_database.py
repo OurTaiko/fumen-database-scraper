@@ -3,7 +3,6 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import json
-import time
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -21,7 +20,6 @@ def scrape_fumen_database():
     }
 
     try:
-        print(f"正在访问: {url}")
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         response.encoding = "utf-8"
@@ -33,7 +31,6 @@ def scrape_fumen_database():
         top_wrapper = soup.find("div", class_="top-wrapper")
 
         if not top_wrapper:
-            print("未找到 top-wrapper")
             return []
 
         table_song_data_wrapper = top_wrapper.find(
@@ -41,13 +38,11 @@ def scrape_fumen_database():
         )
 
         if not table_song_data_wrapper:
-            print("未找到 table_song_data-wrapper")
             return []
 
         table_song_data = table_song_data_wrapper.find("div", class_="table_song_data")
 
         if not table_song_data:
-            print("未找到 table_song_data")
             return []
 
         # 提取所有包含 table_song_name 的链接
@@ -71,11 +66,7 @@ def scrape_fumen_database():
 
         return song_links
 
-    except requests.exceptions.RequestException as e:
-        print(f"请求错误: {e}")
-        return []
-    except Exception as e:
-        print(f"解析错误: {e}")
+    except Exception:
         return []
 
 
@@ -145,17 +136,13 @@ def parse_script_data(soup):
 
                     if data:
                         return data
-            except Exception as e:
-                print(f"  解析 script 数据失败: {e}")
-                import traceback
-
-                traceback.print_exc()
+            except Exception:
                 continue
 
     return None
 
 
-def scrape_song_detail(url):
+def scrape_song_detail(url, error_log=None):
     """
     爬取单个歌曲详情页
     提取 constant, totalNotes 和雷达图数据
@@ -165,7 +152,6 @@ def scrape_song_detail(url):
     }
 
     try:
-        print(f"  正在爬取: {url}")
         response = requests.get(url, headers=headers, timeout=30)
         response.raise_for_status()
         response.encoding = "utf-8"
@@ -175,13 +161,15 @@ def scrape_song_detail(url):
         # 提取 song_id
         song_id = extract_song_id_from_url(url)
         if not song_id:
-            print("  ✗ 无法从 URL 提取歌曲 ID")
+            if error_log is not None:
+                error_log.append(f"无法从 URL 提取歌曲 ID: {url}")
             return None
 
         # 解析 script nonce 中的数据
         radar_data = parse_script_data(soup)
         if not radar_data:
-            print("  ✗ 未找到 script 数据")
+            if error_log is not None:
+                error_log.append(f"[{song_id}] 未找到 script 数据")
             return None
 
         # 提取 constant
@@ -198,7 +186,10 @@ def scrape_song_detail(url):
                         try:
                             constant = float(const_text)
                         except ValueError:
-                            print(f"  ✗ 无法解析 constant: {const_text}")
+                            if error_log is not None:
+                                error_log.append(
+                                    f"[{song_id}] 无法解析 constant: {const_text}"
+                                )
                         break
 
         # 提取 totalNotes
@@ -219,7 +210,10 @@ def scrape_song_detail(url):
                             try:
                                 total_notes = int(notes_text)
                             except ValueError:
-                                print(f"  ✗ 无法解析 totalNotes: {notes_text}")
+                                if error_log is not None:
+                                    error_log.append(
+                                        f"[{song_id}] 无法解析 totalNotes: {notes_text}"
+                                    )
                         break
 
         # 构建结果
@@ -234,17 +228,15 @@ def scrape_song_detail(url):
             "hsChange": radar_data.get("radar_change_hs", None),
         }
 
-        print(f"  ✓ Constant: {constant}, Notes: {total_notes}")
         return song_id, result
 
     except requests.exceptions.RequestException as e:
-        print(f"  ✗ 请求错误: {e}")
+        if error_log is not None:
+            error_log.append(f"请求错误 ({url}): {e}")
         return None
     except Exception as e:
-        print(f"  ✗ 解析错误: {e}")
-        import traceback
-
-        traceback.print_exc()
+        if error_log is not None:
+            error_log.append(f"解析错误 ({url}): {e}")
         return None
 
 
@@ -252,6 +244,11 @@ def save_to_json(data, filename: str):
     """将数据保存为 JSON 文件"""
     if os.path.exists(filename):
         os.remove(filename)
+
+    if os.path.dirname(filename) != "" and not os.path.exists(
+        os.path.dirname(filename)
+    ):
+        os.makedirs(os.path.dirname(filename))
 
     with open(filename, "x", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False)
@@ -304,56 +301,55 @@ def convert_to_new_format(old_data):
     return new_data
 
 
-def scrape_single_song(index, total, song_link, max_retries=5):
+def scrape_single_song(index, total, song_link, max_retries=5, error_log=None):
     """
     爬取单个歌曲，包含重试机制
     返回: (song_id, song_data) 或 (None, song_title) 表示失败
     """
-    print(f"\n[{index}/{total}] {song_link['title']}")
-
     result = None
     retry_count = 0
 
     # 重试机制：最多尝试max_retries次
     while retry_count < max_retries and result is None:
-        if retry_count > 0:
-            print(f"  → 第 {retry_count + 1} 次尝试...")
-            time.sleep(1)  # 重试前等待1秒
-
-        result = scrape_song_detail(song_link["href"])
+        result = scrape_song_detail(song_link["href"], error_log)
         retry_count += 1
 
     if result:
         return result
     else:
-        print(f"  ✗ 爬取失败（已重试 {max_retries} 次）")
+        if error_log is not None:
+            error_log.append(
+                f"[{song_link['title']}] 爬取失败（已重试 {max_retries} 次）"
+            )
         return (None, song_link["title"])  # 返回失败信息
 
 
 def scrape_all_songs(max_workers=4):
-    """爬取所有歌曲"""
+    """爬取所有歌曲（使用多线程池加速）"""
 
     # 第一步：获取所有歌曲链接
     song_links = scrape_fumen_database()
 
-    print(f"\n总共找到 {len(song_links)} 个歌曲")
-
     if not song_links:
-        print("未找到任何歌曲链接")
+        print("✗ 未找到任何歌曲链接")
         return None
+
+    print(f"找到 {len(song_links)} 个歌曲，使用 {max_workers} 个线程进行并发爬取...")
 
     all_songs_data = {}
     success_count = 0
     fail_count = 0
     fails = []
+    errors = []
     max_retries = 5
     total = len(song_links)
 
-    print(f"\n使用 {max_workers} 个线程进行并发爬取...")
+    # 使用ThreadPoolExecutor进行并发爬取
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # 提交所有任务
         futures = {
             executor.submit(
-                scrape_single_song, i + 1, total, song_link, max_retries
+                scrape_single_song, i + 1, total, song_link, max_retries, errors
             ): song_link
             for i, song_link in enumerate(song_links)
         }
@@ -370,24 +366,37 @@ def scrape_all_songs(max_workers=4):
                     fail_count += 1
                     fails.append(result[1])
             except Exception as e:
-                print(f"  ✗ 线程执行错误: {e}")
+                errors.append(f"线程执行错误: {e}")
                 fail_count += 1
 
-    print("\n" + "=" * 50)
+    # 转换为新格式
+    new_format_data = convert_to_new_format(all_songs_data)
+
+    # 统一输出结果
+    print("\n" + "=" * 60)
     print("爬取完成！")
     print(f"成功: {success_count} 个")
     print(f"失败: {fail_count} 个")
+    print(f"转换: {len(new_format_data)} 首歌曲")
 
-    if fails:
-        print("\n以下歌曲爬取失败：")
-        for fail in fails:
-            print(f"  - {fail}")
+    if errors or fails:
+        print("\n" + "=" * 60)
+        print("错误和失败信息：")
+        if errors:
+            print("\n【执行错误】")
+            for error in errors:
+                print(f"  • {error}")
+        if fails:
+            print("\n【爬取失败的歌曲】")
+            for fail in fails:
+                print(f"  • {fail}")
 
-    # 转换为新格式
-    print("\n" + "=" * 50)
-    print("转换为新格式...")
-    new_format_data = convert_to_new_format(all_songs_data)
-    print(f"✓ 转换完成: {len(new_format_data)} 首歌曲")
+    if errors:
+        print("\n【详细日志】")
+        for error in errors:
+            print(f"  • {error}")
+
+    print("=" * 60)
 
     return new_format_data
 
