@@ -1,0 +1,48 @@
+name: Scrape Songs Data
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape-songs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+            ref: main
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+          
+      - name: Run scraper
+        run: python scripts/scrape_fumen_database.py
+
+      - name: Check for changes
+        id: check-diff
+        run: |
+          if git diff --quiet songs.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check-diff.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add songs.json history/*
+          git commit -m "chore: scrape songs data"
+          git push origin update-songs-branch --force
+
