@@ -51,8 +51,6 @@ def scrape_fumen_database():
             "div", class_=lambda x: bool(x and "table_song_name" in x)
         )
 
-        print(f"找到 {len(song_name_divs)} 个歌曲条目")
-
         for div in song_name_divs:
             a_tag = div.find("a")
             if a_tag and a_tag.get("href"):

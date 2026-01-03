@@ -44,5 +44,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add songs.json history/*
           git commit -m "chore: scrape songs data"
-          git push origin update-songs-branch --force
+          git push origin main
 
