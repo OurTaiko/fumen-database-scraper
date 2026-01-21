@@ -238,7 +238,7 @@ def scrape_song_detail(url, error_log=None):
         return None
 
 
-def save_to_json(data, filename: str):
+def save_to_json(data, filename: str, indent: Optional[int] = None):
     """将数据保存为 JSON 文件"""
     if os.path.exists(filename):
         os.remove(filename)
@@ -249,7 +249,7 @@ def save_to_json(data, filename: str):
         os.makedirs(os.path.dirname(filename))
 
     with open(filename, "x", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False)
+        json.dump(data, f, ensure_ascii=False, indent=indent)
 
     print(f"\n数据已保存到 {filename}")
 
@@ -440,6 +440,7 @@ if __name__ == "__main__":
         all_songs_data = scrape_all_songs()
         if all_songs_data:
             save_to_json(all_songs_data, "songs.json")
+            save_to_json(all_songs_data, "songs_raw.json", 2)
             save_to_json(
                 all_songs_data,
                 f"history/{datetime.datetime.now().strftime('%Y-%m-%d')}.json",
