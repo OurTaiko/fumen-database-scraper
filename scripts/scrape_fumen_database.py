@@ -238,7 +238,7 @@ def scrape_song_detail(url, error_log=None):
         return None
 
 
-def save_to_json(data, filename: str, indent: Optional[int] = None):
+def save_to_json(data, filename: str, indent: int | None = None):
     """将数据保存为 JSON 文件"""
     if os.path.exists(filename):
         os.remove(filename)
