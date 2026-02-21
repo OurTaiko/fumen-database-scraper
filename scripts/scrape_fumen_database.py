@@ -257,7 +257,7 @@ def save_to_json(data, filename: str, indent: int | None = None):
 difficulty_map = {"4": "oni", "5": "ura"}
 
 
-def convert_to_new_format(old_data):
+def convert_to_new_format(old_data, id_to_title_map):
     """
     将旧格式数据转换为新格式
     旧格式: {"id-difficulty": {song_data}}
@@ -284,6 +284,7 @@ def convert_to_new_format(old_data):
         if song_id not in songs_map:
             songs_map[song_id] = {
                 "id": int(song_id),
+                "title": id_to_title_map.get(song_id, ""),
                 "constants": {},
             }
 
@@ -313,7 +314,7 @@ def scrape_single_song(index, total, song_link, max_retries=5, error_log=None):
         retry_count += 1
 
     if result:
-        return result
+        return (result, song_link["title"])
     else:
         if error_log is not None:
             error_log.append(
@@ -339,6 +340,7 @@ def scrape_all_songs(max_workers=4):
     fail_count = 0
     fails = []
     errors = []
+    id_to_title_map = {}
     max_retries = 5
     total = len(song_links)
 
@@ -357,8 +359,12 @@ def scrape_all_songs(max_workers=4):
             try:
                 result = future.result()
                 if result[0] is not None:  # 爬取成功
-                    song_id, song_data = result
+                    song_id, song_data = result[0]
+                    song_name = result[1]
                     all_songs_data[song_id] = song_data
+                    last_dash_index = song_id.rfind("-")
+                    song_id = song_id[:last_dash_index]
+                    id_to_title_map[song_id] = song_name
                     success_count += 1
                 else:  # 爬取失败
                     fail_count += 1
@@ -368,7 +374,7 @@ def scrape_all_songs(max_workers=4):
                 fail_count += 1
 
     # 转换为新格式
-    new_format_data = convert_to_new_format(all_songs_data)
+    new_format_data = convert_to_new_format(all_songs_data, id_to_title_map)
 
     # 统一输出结果
     print("\n" + "=" * 60)
@@ -406,17 +412,19 @@ def test_single_page(url):
 
     result = scrape_song_detail(url)
 
-    if result:
-        song_id, song_data = result
+    if result[0]:
+        song_id, song_data = result[0]
+        title = result[1]
         print("\n" + "=" * 50)
         print("爬取成功！")
         print("\n歌曲 ID:", song_id)
+        print("\n歌曲标题:", title)
         print("\n歌曲数据 (旧格式):")
         print(json.dumps({song_id: song_data}, ensure_ascii=False, indent=2))
 
         # 转换为新格式
         old_format = {song_id: song_data}
-        new_format = convert_to_new_format(old_format)
+        new_format = convert_to_new_format(old_format, {song_id: title})
 
         print("\n歌曲数据 (新格式):")
         print(json.dumps(new_format, ensure_ascii=False, indent=2))
