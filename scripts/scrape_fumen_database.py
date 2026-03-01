@@ -170,6 +170,12 @@ def scrape_song_detail(url, error_log=None):
                 error_log.append(f"[{song_id}] 未找到 script 数据")
             return None
 
+        for key in radar_data.keys():
+            if not isinstance(radar_data[key], (int, float)):
+                if error_log is not None:
+                    error_log.append(f"[{song_id}] 数据类型错误: {key} 的值不是数字")
+                return None
+
         # 提取 constant
         constant = None
         top_wrapper = soup.find("div", class_="top-wrapper")
