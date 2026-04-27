@@ -578,7 +578,7 @@
         "hsChange": 29.38
       },
       "ura": {
-        "constant": 10.8,
+        "constant": 10.7,
         "totalNotes": 765,
         "composite": 39.39,
         "avgDensity": 58.76,
@@ -3304,32 +3304,6 @@
     }
   },
   {
-    "id": 231,
-    "title": "限界突破×サバイバー",
-    "constants": {
-      "oni": {
-        "constant": 2.0,
-        "totalNotes": 198,
-        "composite": 0.0,
-        "avgDensity": 6.39,
-        "instDensity": 3.62,
-        "separation": 0.31,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      },
-      "ura": {
-        "constant": 8.5,
-        "totalNotes": 523,
-        "composite": 9.22,
-        "avgDensity": 43.04,
-        "instDensity": 28.22,
-        "separation": 0.94,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      }
-    }
-  },
-  {
     "id": 233,
     "title": "名探偵コナン メイン・テーマ",
     "constants": {
@@ -4730,6 +4704,16 @@
         "separation": 43.69,
         "bpmChange": 56.45,
         "hsChange": 2.1
+      },
+      "ura": {
+        "constant": 8.9,
+        "totalNotes": 556,
+        "composite": 29.06,
+        "avgDensity": 25.17,
+        "instDensity": 39.23,
+        "separation": 9.77,
+        "bpmChange": 62.24,
+        "hsChange": 2.5
       }
     }
   },
@@ -18968,22 +18952,6 @@
     }
   },
   {
-    "id": 1294,
-    "title": "わんだふるぷりきゅあ！evolution!!",
-    "constants": {
-      "oni": {
-        "constant": 6.0,
-        "totalNotes": 307,
-        "composite": 0.0,
-        "avgDensity": 13.67,
-        "instDensity": 15.06,
-        "separation": 0.94,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      }
-    }
-  },
-  {
     "id": 1295,
     "title": "うんぴフレンズ",
     "constants": {
@@ -20380,6 +20348,16 @@
         "separation": 2.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1123,
+        "composite": 30.04,
+        "avgDensity": 87.35,
+        "instDensity": 77.79,
+        "separation": 15.72,
+        "bpmChange": 0.0,
+        "hsChange": 36.48
       }
     }
   },
@@ -20696,6 +20674,16 @@
         "separation": 24.78,
         "bpmChange": 11.47,
         "hsChange": 3.39
+      },
+      "ura": {
+        "constant": 10.7,
+        "totalNotes": 1015,
+        "composite": 82.65,
+        "avgDensity": 77.28,
+        "instDensity": 75.6,
+        "separation": 53.8,
+        "bpmChange": 16.45,
+        "hsChange": 21.57
       }
     }
   },
@@ -20712,6 +20700,16 @@
         "separation": 0.29,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.2,
+        "totalNotes": 1022,
+        "composite": 26.52,
+        "avgDensity": 81.03,
+        "instDensity": 71.35,
+        "separation": 84.66,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
       }
     }
   },
@@ -20726,6 +20724,16 @@
         "avgDensity": 25.53,
         "instDensity": 20.99,
         "separation": 0.0,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 9.9,
+        "totalNotes": 694,
+        "composite": 34.78,
+        "avgDensity": 44.43,
+        "instDensity": 39.13,
+        "separation": 60.06,
         "bpmChange": 0.0,
         "hsChange": 0.0
       }
@@ -21082,6 +21090,32 @@
     }
   },
   {
+    "id": 1414,
+    "title": "桂月",
+    "constants": {
+      "oni": {
+        "constant": 8.3,
+        "totalNotes": 421,
+        "composite": 14.92,
+        "avgDensity": 15.8,
+        "instDensity": 19.22,
+        "separation": 0.63,
+        "bpmChange": 0.0,
+        "hsChange": 26.26
+      },
+      "ura": {
+        "constant": 9.7,
+        "totalNotes": 524,
+        "composite": 40.76,
+        "avgDensity": 23.67,
+        "instDensity": 42.21,
+        "separation": 31.46,
+        "bpmChange": 0.0,
+        "hsChange": 20.55
+      }
+    }
+  },
+  {
     "id": 1415,
     "title": "怪獣",
     "constants": {
@@ -21230,6 +21264,134 @@
         "avgDensity": 20.56,
         "instDensity": 4.18,
         "separation": 0.31,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1424,
+    "title": "てらてら",
+    "constants": {
+      "oni": {
+        "constant": 8.8,
+        "totalNotes": 745,
+        "composite": 19.22,
+        "avgDensity": 34.61,
+        "instDensity": 33.45,
+        "separation": 5.97,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1425,
+    "title": "モア！ジャンプ！モア！",
+    "constants": {
+      "oni": {
+        "constant": 9.8,
+        "totalNotes": 821,
+        "composite": 22.96,
+        "avgDensity": 47.98,
+        "instDensity": 46.59,
+        "separation": 2.83,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1426,
+    "title": "CR詠ZY",
+    "constants": {
+      "oni": {
+        "constant": 8.4,
+        "totalNotes": 479,
+        "composite": 28.82,
+        "avgDensity": 24.36,
+        "instDensity": 4.31,
+        "separation": 27.33,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1427,
+    "title": "トンデモワンダーズ",
+    "constants": {
+      "oni": {
+        "constant": 9.7,
+        "totalNotes": 802,
+        "composite": 50.66,
+        "avgDensity": 46.57,
+        "instDensity": 51.9,
+        "separation": 6.8,
+        "bpmChange": 11.76,
+        "hsChange": 27.71
+      }
+    }
+  },
+  {
+    "id": 1428,
+    "title": "バグ",
+    "constants": {
+      "oni": {
+        "constant": 7.9,
+        "totalNotes": 642,
+        "composite": 10.4,
+        "avgDensity": 28.41,
+        "instDensity": 19.07,
+        "separation": 0.31,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1431,
+    "title": "アリア",
+    "constants": {
+      "oni": {
+        "constant": 9.5,
+        "totalNotes": 825,
+        "composite": 37.26,
+        "avgDensity": 38.42,
+        "instDensity": 27.82,
+        "separation": 6.6,
+        "bpmChange": 15.42,
+        "hsChange": 1.18
+      }
+    }
+  },
+  {
+    "id": 1432,
+    "title": "CHAOTiC BATTLE",
+    "constants": {
+      "oni": {
+        "constant": 10.6,
+        "totalNotes": 1053,
+        "composite": 85.8,
+        "avgDensity": 55.2,
+        "instDensity": 75.2,
+        "separation": 83.55,
+        "bpmChange": 21.95,
+        "hsChange": 64.93
+      }
+    }
+  },
+  {
+    "id": 1433,
+    "title": "Re:Play!!",
+    "constants": {
+      "oni": {
+        "constant": 8.6,
+        "totalNotes": 625,
+        "composite": 6.2,
+        "avgDensity": 30.42,
+        "instDensity": 35.95,
+        "separation": 0.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
       }
@@ -21586,6 +21748,228 @@
         "separation": 0.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1453,
+    "title": "THE REVO",
+    "constants": {
+      "oni": {
+        "constant": 7.0,
+        "totalNotes": 350,
+        "composite": 2.32,
+        "avgDensity": 18.42,
+        "instDensity": 16.84,
+        "separation": 3.46,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1455,
+    "title": "無敵的ハピネス！(SOS団5人Ver.)",
+    "constants": {
+      "oni": {
+        "constant": 8.0,
+        "totalNotes": 503,
+        "composite": 5.8,
+        "avgDensity": 31.04,
+        "instDensity": 16.68,
+        "separation": 0.94,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 10.0,
+        "totalNotes": 766,
+        "composite": 42.38,
+        "avgDensity": 67.24,
+        "instDensity": 63.62,
+        "separation": 15.67,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1456,
+    "title": "World Keeps Turning",
+    "constants": {
+      "oni": {
+        "constant": 8.4,
+        "totalNotes": 701,
+        "composite": 24.62,
+        "avgDensity": 33.3,
+        "instDensity": 25.48,
+        "separation": 7.23,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1457,
+    "title": "ツナガリズム",
+    "constants": {
+      "oni": {
+        "constant": 8.5,
+        "totalNotes": 622,
+        "composite": 43.86,
+        "avgDensity": 41.08,
+        "instDensity": 16.06,
+        "separation": 4.4,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1458,
+    "title": "闇の魂",
+    "constants": {
+      "oni": {
+        "constant": 9.1,
+        "totalNotes": 592,
+        "composite": 49.01,
+        "avgDensity": 34.48,
+        "instDensity": 18.99,
+        "separation": 12.04,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1459,
+    "title": "ワルルーさまの歌を聴けぇ！",
+    "constants": {
+      "oni": {
+        "constant": 8.9,
+        "totalNotes": 516,
+        "composite": 17.43,
+        "avgDensity": 19.33,
+        "instDensity": 30.26,
+        "separation": 20.5,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1460,
+    "title": "クスシキ",
+    "constants": {
+      "oni": {
+        "constant": 7.9,
+        "totalNotes": 412,
+        "composite": 15.34,
+        "avgDensity": 21.72,
+        "instDensity": 17.47,
+        "separation": 29.95,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1462,
+    "title": "コドモオトナヒーロー (feat. 竹ぱら, しなこ, リアピ)",
+    "constants": {
+      "oni": {
+        "constant": 5.0,
+        "totalNotes": 354,
+        "composite": 0.0,
+        "avgDensity": 12.99,
+        "instDensity": 16.34,
+        "separation": 9.43,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1463,
+    "title": "チェリーポップ",
+    "constants": {
+      "oni": {
+        "constant": 8.7,
+        "totalNotes": 432,
+        "composite": 4.22,
+        "avgDensity": 39.86,
+        "instDensity": 33.92,
+        "separation": 0.31,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1464,
+    "title": "ZOMEKI THUNDER",
+    "constants": {
+      "oni": {
+        "constant": 10.0,
+        "totalNotes": 765,
+        "composite": 27.62,
+        "avgDensity": 44.68,
+        "instDensity": 49.55,
+        "separation": 43.39,
+        "bpmChange": 0.0,
+        "hsChange": 19.0
+      }
+    }
+  },
+  {
+    "id": 1465,
+    "title": "マルトーアンフェール",
+    "constants": {
+      "oni": {
+        "constant": 8.6,
+        "totalNotes": 779,
+        "composite": 13.72,
+        "avgDensity": 31.14,
+        "instDensity": 20.75,
+        "separation": 0.0,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1226,
+        "composite": 13.06,
+        "avgDensity": 75.05,
+        "instDensity": 70.67,
+        "separation": 25.72,
+        "bpmChange": 0.0,
+        "hsChange": 47.95
+      }
+    }
+  },
+  {
+    "id": 1466,
+    "title": "どんちゃんえかき歌",
+    "constants": {
+      "oni": {
+        "constant": 7.3,
+        "totalNotes": 368,
+        "composite": 8.6,
+        "avgDensity": 14.8,
+        "instDensity": 16.69,
+        "separation": 0.1,
+        "bpmChange": 8.51,
+        "hsChange": 0.11
+      },
+      "ura": {
+        "constant": 3.5,
+        "totalNotes": 157,
+        "composite": 3.56,
+        "avgDensity": 13.38,
+        "instDensity": 0.06,
+        "separation": 0.0,
+        "bpmChange": 0.19,
+        "hsChange": 4.08
       }
     }
   }
