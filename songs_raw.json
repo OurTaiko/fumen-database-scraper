@@ -52,7 +52,7 @@
     "title": "イオシス秋の肉食祭2014",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 848,
         "composite": 44.1,
         "avgDensity": 40.17,
@@ -1748,7 +1748,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 743,
         "composite": 73.62,
         "avgDensity": 62.19,
@@ -2272,7 +2272,7 @@
         "hsChange": 9.43
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.4,
         "totalNotes": 715,
         "composite": 8.84,
         "avgDensity": 39.39,
@@ -3176,7 +3176,7 @@
     "title": "カラ鞠の花",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 774,
         "composite": 81.79,
         "avgDensity": 48.95,
@@ -3202,7 +3202,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 800,
         "composite": 48.0,
         "avgDensity": 34.29,
@@ -3228,7 +3228,7 @@
         "hsChange": 6.27
       },
       "ura": {
-        "constant": 10.6,
+        "constant": 10.7,
         "totalNotes": 1000,
         "composite": 59.06,
         "avgDensity": 46.43,
@@ -3684,7 +3684,7 @@
     "title": "魔方陣 -サモン・デルタ-",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.0,
         "totalNotes": 600,
         "composite": 38.06,
         "avgDensity": 22.31,
@@ -3742,7 +3742,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 999,
         "composite": 30.99,
         "avgDensity": 72.93,
@@ -3758,7 +3758,7 @@
     "title": "〆ドレー2000",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 1414,
         "composite": 89.61,
         "avgDensity": 71.53,
@@ -4812,7 +4812,7 @@
     "title": "シン・ゾンビ",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.6,
         "totalNotes": 794,
         "composite": 43.22,
         "avgDensity": 59.25,
@@ -5280,7 +5280,7 @@
     "title": "Angel Halo",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 898,
         "composite": 24.12,
         "avgDensity": 56.93,
@@ -6604,7 +6604,7 @@
     "title": "VERTeX",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 806,
         "composite": 48.67,
         "avgDensity": 51.87,
@@ -7530,7 +7530,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 931,
         "composite": 57.5,
         "avgDensity": 45.28,
@@ -7604,7 +7604,7 @@
         "hsChange": 6.26
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 1100,
         "composite": 95.82,
         "avgDensity": 55.66,
@@ -8398,7 +8398,7 @@
     "title": "オール・イン・マイハート",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 704,
         "composite": 21.12,
         "avgDensity": 40.92,
@@ -8558,7 +8558,7 @@
     "title": "承認欲Q",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.4,
         "totalNotes": 899,
         "composite": 21.89,
         "avgDensity": 45.73,
@@ -8606,7 +8606,7 @@
     "title": "SstTAarR*",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 848,
         "composite": 33.98,
         "avgDensity": 57.14,
@@ -8898,7 +8898,7 @@
     "title": "アサガオ",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 765,
         "composite": 28.12,
         "avgDensity": 55.13,
@@ -9180,7 +9180,7 @@
     "title": "オーブの祈り",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 1062,
         "composite": 90.77,
         "avgDensity": 49.58,
@@ -9366,7 +9366,7 @@
     "title": "須佐之男",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 686,
         "composite": 37.43,
         "avgDensity": 37.33,
@@ -9900,7 +9900,7 @@
     "title": "そつおめしき2ばん",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 792,
         "composite": 47.18,
         "avgDensity": 66.06,
@@ -9990,7 +9990,7 @@
     "title": "R.I.",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 925,
         "composite": 52.13,
         "avgDensity": 53.42,
@@ -10048,7 +10048,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 940,
         "composite": 44.98,
         "avgDensity": 63.88,
@@ -10202,7 +10202,7 @@
     "title": "懐中庭園を持つ少女",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 827,
         "composite": 3.51,
         "avgDensity": 56.0,
@@ -10356,7 +10356,7 @@
     "title": "OK I'm blue rat",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 816,
         "composite": 61.97,
         "avgDensity": 35.1,
@@ -10482,7 +10482,7 @@
         "hsChange": 28.24
       },
       "ura": {
-        "constant": 11.4,
+        "constant": 11.3,
         "totalNotes": 1167,
         "composite": 91.39,
         "avgDensity": 92.32,
@@ -10514,7 +10514,7 @@
     "title": "秘ナルメジェドノ悲ナル憂鬱",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 818,
         "composite": 47.25,
         "avgDensity": 55.09,
@@ -10530,7 +10530,7 @@
     "title": "よーいドン！",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 777,
         "composite": 41.04,
         "avgDensity": 45.01,
@@ -10694,7 +10694,7 @@
         "hsChange": 0.04
       },
       "ura": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 1000,
         "composite": 42.54,
         "avgDensity": 70.96,
@@ -10720,7 +10720,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 829,
         "composite": 64.98,
         "avgDensity": 44.28,
@@ -11146,7 +11146,7 @@
     "title": "第六天魔王",
     "constants": {
       "oni": {
-        "constant": 11.5,
+        "constant": 11.4,
         "totalNotes": 1396,
         "composite": 77.8,
         "avgDensity": 100.0,
@@ -11156,7 +11156,7 @@
         "hsChange": 5.71
       },
       "ura": {
-        "constant": 11.6,
+        "constant": 11.5,
         "totalNotes": 1582,
         "composite": 92.7,
         "avgDensity": 100.0,
@@ -11410,7 +11410,7 @@
     "title": "頂",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 881,
         "composite": 45.61,
         "avgDensity": 60.73,
@@ -11558,7 +11558,7 @@
     "title": "PAC-MAN CHAMPIONSHIP EDITION 2",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 657,
         "composite": 28.99,
         "avgDensity": 33.44,
@@ -11638,7 +11638,7 @@
     "title": "FREEDOM DiVE↓",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 1024,
         "composite": 18.34,
         "avgDensity": 58.67,
@@ -11770,7 +11770,7 @@
     "title": "ラヴ♡スパイス♡ライクユー!!!",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 934,
         "composite": 59.09,
         "avgDensity": 64.2,
@@ -12420,7 +12420,7 @@
     "title": "うちゅうひこうし冒険譚",
     "constants": {
       "oni": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 797,
         "composite": 25.18,
         "avgDensity": 46.85,
@@ -12526,7 +12526,7 @@
     "title": "Caribbean Knight",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 806,
         "composite": 3.3,
         "avgDensity": 41.52,
@@ -12542,7 +12542,7 @@
     "title": "タイコロール",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 876,
         "composite": 54.35,
         "avgDensity": 35.55,
@@ -13162,7 +13162,7 @@
     "title": "Dogbite",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 817,
         "composite": 39.36,
         "avgDensity": 48.97,
@@ -13290,7 +13290,7 @@
     "title": "MagiCatz",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 732,
         "composite": 38.03,
         "avgDensity": 27.59,
@@ -13566,7 +13566,7 @@
     "title": "テトラリュトモスフォビア",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.7,
         "totalNotes": 717,
         "composite": 64.35,
         "avgDensity": 39.41,
@@ -13582,7 +13582,7 @@
     "title": "Central Dogma Pt.1",
     "constants": {
       "oni": {
-        "constant": 10.3,
+        "constant": 10.2,
         "totalNotes": 876,
         "composite": 0.9,
         "avgDensity": 54.08,
@@ -13702,7 +13702,7 @@
     "title": "Vixtory",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 912,
         "composite": 27.95,
         "avgDensity": 48.98,
@@ -13792,7 +13792,7 @@
     "title": "Hand Over (Prod. TEMPLIME)",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 651,
         "composite": 26.06,
         "avgDensity": 29.17,
@@ -14068,7 +14068,7 @@
     "title": "YOAKE",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 965,
         "composite": 49.22,
         "avgDensity": 62.25,
@@ -14450,7 +14450,7 @@
     "title": "Amber Light",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 634,
         "composite": 50.42,
         "avgDensity": 31.57,
@@ -14656,7 +14656,7 @@
         "hsChange": 12.22
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.4,
         "totalNotes": 847,
         "composite": 15.3,
         "avgDensity": 49.26,
@@ -14740,7 +14740,7 @@
         "hsChange": 6.4
       },
       "ura": {
-        "constant": 11.2,
+        "constant": 11.1,
         "totalNotes": 1074,
         "composite": 23.75,
         "avgDensity": 81.01,
@@ -14840,7 +14840,7 @@
     "title": "BATTLE NO.1",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.7,
         "totalNotes": 985,
         "composite": 50.43,
         "avgDensity": 63.78,
@@ -14856,7 +14856,7 @@
     "title": "鼓舞曲「閻魔」",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 979,
         "composite": 72.63,
         "avgDensity": 52.85,
@@ -14930,7 +14930,7 @@
     "title": "憎悪と醜悪の花束",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 722,
         "composite": 0.9,
         "avgDensity": 36.35,
@@ -15004,7 +15004,7 @@
     "title": "アンリミテッドゲームズ",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 833,
         "composite": 2.8,
         "avgDensity": 38.8,
@@ -15014,7 +15014,7 @@
         "hsChange": 10.27
       },
       "ura": {
-        "constant": 11.3,
+        "constant": 11.2,
         "totalNotes": 1210,
         "composite": 30.91,
         "avgDensity": 80.26,
@@ -15030,7 +15030,7 @@
     "title": "晨星ト鵺",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 904,
         "composite": 37.62,
         "avgDensity": 51.23,
@@ -15046,7 +15046,7 @@
     "title": "Hello, Mr.JOKER",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 821,
         "composite": 21.51,
         "avgDensity": 42.36,
@@ -15204,7 +15204,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 876,
         "composite": 32.33,
         "avgDensity": 53.32,
@@ -15384,7 +15384,7 @@
     "title": "The Future of the 太鼓ドラム",
     "constants": {
       "oni": {
-        "constant": 10.7,
+        "constant": 10.5,
         "totalNotes": 974,
         "composite": 1.7,
         "avgDensity": 45.21,
@@ -16228,7 +16228,7 @@
         "hsChange": 61.33
       },
       "ura": {
-        "constant": 11.5,
+        "constant": 11.4,
         "totalNotes": 1365,
         "composite": 57.08,
         "avgDensity": 100.0,
@@ -16328,7 +16328,7 @@
     "title": "Aleph-0",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.4,
         "totalNotes": 579,
         "composite": 6.3,
         "avgDensity": 25.04,
@@ -16962,7 +16962,7 @@
     "title": "アキバ20XX",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 819,
         "composite": 37.45,
         "avgDensity": 58.3,
@@ -17154,7 +17154,7 @@
     "title": "鼓立あおはる学園校歌",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 613,
         "composite": 0.0,
         "avgDensity": 20.09,
@@ -17308,7 +17308,7 @@
         "hsChange": 1.44
       },
       "ura": {
-        "constant": 11.4,
+        "constant": 11.3,
         "totalNotes": 1119,
         "composite": 63.07,
         "avgDensity": 64.17,
@@ -17408,7 +17408,7 @@
         "hsChange": 2.22
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.4,
         "totalNotes": 889,
         "composite": 23.58,
         "avgDensity": 66.09,
@@ -17652,7 +17652,7 @@
     "title": "Nosferatu",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 876,
         "composite": 35.93,
         "avgDensity": 39.01,
@@ -17892,7 +17892,7 @@
     "title": "Chronomia",
     "constants": {
       "oni": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 969,
         "composite": 36.88,
         "avgDensity": 48.5,
@@ -18574,7 +18574,7 @@
         "hsChange": 0.03
       },
       "ura": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 862,
         "composite": 28.05,
         "avgDensity": 59.79,
@@ -18632,7 +18632,7 @@
         "hsChange": 2.44
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.2,
         "totalNotes": 705,
         "composite": 58.38,
         "avgDensity": 42.9,
@@ -18722,7 +18722,7 @@
     "title": "とける",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 788,
         "composite": 27.66,
         "avgDensity": 44.04,
@@ -18982,7 +18982,7 @@
     "title": "サラえる",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 599,
         "composite": 33.45,
         "avgDensity": 36.46,
@@ -19774,7 +19774,7 @@
     "title": "Help me, さいたま2000!!",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 944,
         "composite": 18.09,
         "avgDensity": 48.29,
@@ -19916,7 +19916,7 @@
     "title": "リトルホワイトウィッチ",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 731,
         "composite": 45.88,
         "avgDensity": 28.45,
@@ -20424,7 +20424,7 @@
     "title": "Valsqotch",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.4,
         "totalNotes": 1057,
         "composite": 90.53,
         "avgDensity": 51.26,
@@ -20450,7 +20450,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.3,
+        "constant": 10.2,
         "totalNotes": 865,
         "composite": 28.0,
         "avgDensity": 53.62,
@@ -20920,7 +20920,7 @@
     "title": "閃光天舞",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 904,
         "composite": 52.55,
         "avgDensity": 68.26,
@@ -21052,7 +21052,7 @@
         "hsChange": 16.96
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 987,
         "composite": 24.9,
         "avgDensity": 72.36,
@@ -21168,7 +21168,7 @@
     "title": "Sync Your World",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 876,
         "composite": 47.09,
         "avgDensity": 42.59,
@@ -21226,7 +21226,7 @@
     "title": "SUDDEN GUST OC",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.2,
         "totalNotes": 884,
         "composite": 25.25,
         "avgDensity": 54.88,
@@ -21402,7 +21402,7 @@
     "title": "YOU're our HEROES",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 987,
         "composite": 21.32,
         "avgDensity": 50.68,
@@ -21620,7 +21620,7 @@
     "title": "バブル・リップ・レイヴ・マシン",
     "constants": {
       "oni": {
-        "constant": 10.8,
+        "constant": 10.7,
         "totalNotes": 687,
         "composite": 45.38,
         "avgDensity": 43.34,
