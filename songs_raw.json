@@ -17378,22 +17378,6 @@
     }
   },
   {
-    "id": 1200,
-    "title": "全力キング",
-    "constants": {
-      "oni": {
-        "constant": 6.4,
-        "totalNotes": 305,
-        "composite": 0.0,
-        "avgDensity": 17.72,
-        "instDensity": 14.38,
-        "separation": 0.41,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      }
-    }
-  },
-  {
     "id": 1201,
     "title": "ドドドドドンだフル！",
     "constants": {
