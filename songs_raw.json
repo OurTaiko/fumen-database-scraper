@@ -2706,6 +2706,22 @@
     }
   },
   {
+    "id": 186,
+    "title": "Hurtling Boys",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 903,
+        "composite": 78.66,
+        "avgDensity": 72.2,
+        "instDensity": 77.9,
+        "separation": 78.15,
+        "bpmChange": 0.0,
+        "hsChange": 56.98
+      }
+    }
+  },
+  {
     "id": 187,
     "title": "六兆年と一夜物語",
     "constants": {
@@ -5732,6 +5748,22 @@
     }
   },
   {
+    "id": 393,
+    "title": "双竜ノ乱",
+    "constants": {
+      "oni": {
+        "constant": 11.1,
+        "totalNotes": 970,
+        "composite": 51.38,
+        "avgDensity": 70.25,
+        "instDensity": 94.53,
+        "separation": 1.26,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      }
+    }
+  },
+  {
     "id": 394,
     "title": "宇宙SAMURAI",
     "constants": {
@@ -6741,6 +6773,16 @@
         "composite": 29.92,
         "avgDensity": 38.25,
         "instDensity": 45.9,
+        "separation": 0.0,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 904,
+        "composite": 42.0,
+        "avgDensity": 67.77,
+        "instDensity": 81.24,
         "separation": 0.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
@@ -8316,6 +8358,22 @@
         "separation": 5.36,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 555,
+    "title": "≠MM",
+    "constants": {
+      "oni": {
+        "constant": 11.1,
+        "totalNotes": 1290,
+        "composite": 96.45,
+        "avgDensity": 70.39,
+        "instDensity": 69.22,
+        "separation": 10.95,
+        "bpmChange": 23.16,
+        "hsChange": 22.66
       }
     }
   },
@@ -10110,6 +10168,16 @@
         "separation": 62.43,
         "bpmChange": 12.38,
         "hsChange": 31.41
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1044,
+        "composite": 46.6,
+        "avgDensity": 70.2,
+        "instDensity": 69.96,
+        "separation": 83.32,
+        "bpmChange": 17.27,
+        "hsChange": 59.41
       }
     }
   },
@@ -11058,6 +11126,22 @@
     }
   },
   {
+    "id": 764,
+    "title": "Coquette",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 1022,
+        "composite": 88.11,
+        "avgDensity": 81.02,
+        "instDensity": 80.3,
+        "separation": 89.55,
+        "bpmChange": 0.0,
+        "hsChange": 52.18
+      }
+    }
+  },
+  {
     "id": 765,
     "title": "第六天魔王",
     "constants": {
@@ -11222,6 +11306,22 @@
         "separation": 64.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 778,
+    "title": "λ7708",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 788,
+        "composite": 17.64,
+        "avgDensity": 61.34,
+        "instDensity": 84.86,
+        "separation": 92.85,
+        "bpmChange": 32.25,
+        "hsChange": 80.67
       }
     }
   },
@@ -12194,6 +12294,22 @@
     }
   },
   {
+    "id": 858,
+    "title": "UFO Swingin'",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 756,
+        "composite": 32.91,
+        "avgDensity": 68.4,
+        "instDensity": 80.4,
+        "separation": 59.52,
+        "bpmChange": 3.69,
+        "hsChange": 70.79
+      }
+    }
+  },
+  {
     "id": 859,
     "title": "天泣の律",
     "constants": {
@@ -12646,6 +12762,22 @@
         "separation": 0.0,
         "bpmChange": 4.6,
         "hsChange": 0.14
+      }
+    }
+  },
+  {
+    "id": 896,
+    "title": "続・〆ドレー2000",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 940,
+        "composite": 49.89,
+        "avgDensity": 59.13,
+        "instDensity": 99.0,
+        "separation": 64.95,
+        "bpmChange": 41.86,
+        "hsChange": 86.92
       }
     }
   },
@@ -14047,6 +14179,16 @@
     "id": 993,
     "title": "彁",
     "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 692,
+        "composite": 27.24,
+        "avgDensity": 28.21,
+        "instDensity": 54.2,
+        "separation": 98.28,
+        "bpmChange": 100.0,
+        "hsChange": 82.73
+      },
       "ura": {
         "constant": 11.6,
         "totalNotes": 1070,
@@ -14742,6 +14884,22 @@
     }
   },
   {
+    "id": 1041,
+    "title": "†バチ!ムチ!?マッスルキングダム†",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 961,
+        "composite": 54.51,
+        "avgDensity": 61.63,
+        "instDensity": 84.64,
+        "separation": 83.03,
+        "bpmChange": 38.78,
+        "hsChange": 51.64
+      }
+    }
+  },
+  {
     "id": 1042,
     "title": "刻竜 ～Kokuryu～",
     "constants": {
@@ -15112,6 +15270,22 @@
         "separation": 1.57,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1066,
+    "title": "たいこの2000",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 1008,
+        "composite": 56.78,
+        "avgDensity": 66.91,
+        "instDensity": 78.34,
+        "separation": 39.44,
+        "bpmChange": 0.0,
+        "hsChange": 82.77
       }
     }
   },
@@ -15602,6 +15776,22 @@
         "separation": 45.73,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      }
+    }
+  },
+  {
+    "id": 1099,
+    "title": "Challengers",
+    "constants": {
+      "oni": {
+        "constant": 11.0,
+        "totalNotes": 753,
+        "composite": 36.84,
+        "avgDensity": 43.73,
+        "instDensity": 76.83,
+        "separation": 81.99,
+        "bpmChange": 48.99,
+        "hsChange": 0.79
       }
     }
   },
@@ -17454,6 +17644,16 @@
         "separation": 13.29,
         "bpmChange": 24.87,
         "hsChange": 0.31
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1353,
+        "composite": 45.04,
+        "avgDensity": 90.01,
+        "instDensity": 89.51,
+        "separation": 65.91,
+        "bpmChange": 24.54,
+        "hsChange": 0.0
       }
     }
   },
@@ -19038,6 +19238,16 @@
         "separation": 0.0,
         "bpmChange": 9.69,
         "hsChange": 18.81
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 985,
+        "composite": 30.32,
+        "avgDensity": 65.17,
+        "instDensity": 81.6,
+        "separation": 34.57,
+        "bpmChange": 9.69,
+        "hsChange": 49.66
       }
     }
   },
@@ -20122,6 +20332,16 @@
         "separation": 2.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1123,
+        "composite": 30.04,
+        "avgDensity": 87.35,
+        "instDensity": 77.79,
+        "separation": 15.72,
+        "bpmChange": 0.0,
+        "hsChange": 36.48
       }
     }
   },
@@ -20788,6 +21008,16 @@
         "separation": 18.51,
         "bpmChange": 0.0,
         "hsChange": 22.61
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1030,
+        "composite": 80.57,
+        "avgDensity": 83.74,
+        "instDensity": 88.38,
+        "separation": 85.29,
+        "bpmChange": 0.0,
+        "hsChange": 29.44
       }
     }
   },
@@ -21688,6 +21918,16 @@
         "separation": 0.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
+      },
+      "ura": {
+        "constant": 11.0,
+        "totalNotes": 1226,
+        "composite": 13.06,
+        "avgDensity": 75.05,
+        "instDensity": 70.67,
+        "separation": 25.72,
+        "bpmChange": 0.0,
+        "hsChange": 47.95
       }
     }
   },
