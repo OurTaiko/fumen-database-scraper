@@ -9180,7 +9180,7 @@
     "title": "オーブの祈り",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 1062,
         "composite": 90.77,
         "avgDensity": 49.58,
@@ -12160,7 +12160,7 @@
     "title": "キューティー☆デモニック☆魔人エモ!!",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 1075,
         "composite": 60.82,
         "avgDensity": 60.4,
@@ -13116,22 +13116,6 @@
     }
   },
   {
-    "id": 925,
-    "title": "秒針を噛む",
-    "constants": {
-      "oni": {
-        "constant": 8.3,
-        "totalNotes": 402,
-        "composite": 21.18,
-        "avgDensity": 24.06,
-        "instDensity": 16.66,
-        "separation": 16.67,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      }
-    }
-  },
-  {
     "id": 926,
     "title": "命に嫌われている。",
     "constants": {
@@ -13856,7 +13840,7 @@
     "title": "星河一天",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 858,
         "composite": 59.42,
         "avgDensity": 53.6,
