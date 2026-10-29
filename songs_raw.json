@@ -40,7 +40,7 @@
     "title": "願いはエスペラント",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 507,
         "rollSeconds": 4.559,
         "balloonCount": 10,
@@ -106,7 +106,7 @@
         "hsChange": 0.65
       },
       "ura": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 681,
         "rollSeconds": 5.007,
         "balloonCount": 25,
@@ -124,7 +124,7 @@
     "title": "3piece-JazzParty！",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 552,
         "rollSeconds": 0.0,
         "balloonCount": 6,
@@ -160,7 +160,7 @@
     "title": "夜櫻ブレヰダアズ",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 567,
         "rollSeconds": 4.162,
         "balloonCount": 127,
@@ -178,7 +178,7 @@
     "title": "ドキドキ胸きゅん おまつりタイム",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 652,
         "rollSeconds": 22.973,
         "balloonCount": 16,
@@ -196,7 +196,7 @@
     "title": "七彩ボタン",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 455,
         "rollSeconds": 2.5,
         "balloonCount": 0,
@@ -214,7 +214,7 @@
     "title": "竜と黒炎の姫君",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 569,
         "rollSeconds": 5.312,
         "balloonCount": 58,
@@ -262,7 +262,7 @@
     "title": "花オト裏拍子",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.5,
         "totalNotes": 700,
         "rollSeconds": 3.449,
         "balloonCount": 0,
@@ -334,7 +334,7 @@
     "title": "愛想笑い",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 600,
         "rollSeconds": 1.676,
         "balloonCount": 10,
@@ -370,7 +370,7 @@
     "title": "恋するフォーチュンクッキー",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.4,
         "totalNotes": 529,
         "rollSeconds": 6.681,
         "balloonCount": 84,
@@ -478,7 +478,7 @@
     "title": "Amanda",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 523,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -514,7 +514,7 @@
     "title": "Let It Go～ありのままで～",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 361,
         "rollSeconds": 14.229,
         "balloonCount": 53,
@@ -532,7 +532,7 @@
     "title": "渚のアンドロメダ",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.1,
         "totalNotes": 701,
         "rollSeconds": 6.105,
         "balloonCount": 70,
@@ -550,7 +550,7 @@
     "title": "風のファンタジー",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 765,
         "rollSeconds": 8.131,
         "balloonCount": 0,
@@ -568,7 +568,7 @@
     "title": "パステル ドリーム",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 765,
         "rollSeconds": 9.307,
         "balloonCount": 0,
@@ -586,7 +586,7 @@
     "title": "My Soul, Your Beats!",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 444,
         "rollSeconds": 4.414,
         "balloonCount": 0,
@@ -622,7 +622,7 @@
     "title": "アンパンマンのマーチ",
     "constants": {
       "oni": {
-        "constant": 3.5,
+        "constant": 3.0,
         "totalNotes": 400,
         "rollSeconds": 4.268,
         "balloonCount": 0,
@@ -670,7 +670,7 @@
     "title": "YouTubeテーマソング",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 455,
         "rollSeconds": 2.499,
         "balloonCount": 63,
@@ -718,7 +718,7 @@
     "title": "前前前世",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 466,
         "rollSeconds": 2.921,
         "balloonCount": 23,
@@ -736,7 +736,7 @@
     "title": "アサルト BGM1",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.4,
         "totalNotes": 527,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -748,7 +748,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 761,
         "rollSeconds": 1.0,
         "balloonCount": 22,
@@ -766,7 +766,7 @@
     "title": "サンバ アレグリーア",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 619,
         "rollSeconds": 0.362,
         "balloonCount": 12,
@@ -778,7 +778,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 765,
         "rollSeconds": 1.051,
         "balloonCount": 28,
@@ -796,7 +796,7 @@
     "title": "くらえ！ブットバースト!!",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 454,
         "rollSeconds": 1.732,
         "balloonCount": 19,
@@ -814,7 +814,7 @@
     "title": "バーニングフォースメドレー",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 748,
         "rollSeconds": 1.18,
         "balloonCount": 0,
@@ -832,7 +832,7 @@
     "title": "化物月夜",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 677,
         "rollSeconds": 0.306,
         "balloonCount": 27,
@@ -868,7 +868,7 @@
     "title": "Blue Rose Ruin",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.1,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 15,
@@ -904,7 +904,7 @@
     "title": "夜桜謝肉祭",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 986,
         "rollSeconds": 1.853,
         "balloonCount": 0,
@@ -934,7 +934,7 @@
     "title": "オフ♨ロック",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 594,
         "rollSeconds": 2.175,
         "balloonCount": 0,
@@ -970,7 +970,7 @@
     "title": "ブルちゃんのおや2",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 575,
         "rollSeconds": 2.468,
         "balloonCount": 68,
@@ -1042,7 +1042,7 @@
     "title": "百鬼夜行",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 711,
         "rollSeconds": 0.172,
         "balloonCount": 30,
@@ -1078,7 +1078,7 @@
     "title": "ソウルキャリバーII",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 471,
         "rollSeconds": 3.394,
         "balloonCount": 4,
@@ -1096,7 +1096,7 @@
     "title": "カラメルタイム☆",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 722,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -1132,7 +1132,7 @@
     "title": "The Carnivorous Carnival",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 777,
         "rollSeconds": 5.297,
         "balloonCount": 0,
@@ -1180,7 +1180,7 @@
     "title": "白猫きゃらめる夢幻のわたあめ",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 634,
         "rollSeconds": 2.848,
         "balloonCount": 23,
@@ -1228,7 +1228,7 @@
     "title": "天国と地獄 序曲",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 7.6,
         "totalNotes": 563,
         "rollSeconds": 5.017,
         "balloonCount": 45,
@@ -1276,7 +1276,7 @@
     "title": "交響曲第7番から",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 541,
         "rollSeconds": 4.454,
         "balloonCount": 0,
@@ -1294,7 +1294,7 @@
     "title": "パリのアメリカ人",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 463,
         "rollSeconds": 1.821,
         "balloonCount": 90,
@@ -1312,7 +1312,7 @@
     "title": "サーフサイド・サティ",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 781,
         "rollSeconds": 0.767,
         "balloonCount": 0,
@@ -1330,7 +1330,7 @@
     "title": "カルメン 組曲一番終曲",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 518,
         "rollSeconds": 0.0,
         "balloonCount": 40,
@@ -1342,7 +1342,7 @@
         "hsChange": 2.27
       },
       "ura": {
-        "constant": 10.9,
+        "constant": 11.0,
         "totalNotes": 957,
         "rollSeconds": 1.826,
         "balloonCount": 0,
@@ -1360,7 +1360,7 @@
     "title": "ヘ調の協奏曲 第3楽章",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.7,
         "totalNotes": 734,
         "rollSeconds": 5.583,
         "balloonCount": 58,
@@ -1378,7 +1378,7 @@
     "title": "クープランの墓",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.3,
         "totalNotes": 651,
         "rollSeconds": 1.036,
         "balloonCount": 66,
@@ -1396,7 +1396,7 @@
     "title": "道化師の朝の歌",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 529,
         "rollSeconds": 2.301,
         "balloonCount": 36,
@@ -1414,7 +1414,7 @@
     "title": "幻想即興曲",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 558,
         "rollSeconds": 1.974,
         "balloonCount": 26,
@@ -1432,7 +1432,7 @@
     "title": "熊蜂の飛行",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 630,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -1450,7 +1450,7 @@
     "title": "カレ・カノ・カノン",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 697,
         "rollSeconds": 5.194,
         "balloonCount": 0,
@@ -1468,7 +1468,7 @@
     "title": "火星",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 376,
         "rollSeconds": 15.471,
         "balloonCount": 124,
@@ -1516,7 +1516,7 @@
     "title": "「ルスランとリュドミラ」序曲",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 659,
         "rollSeconds": 0.0,
         "balloonCount": 24,
@@ -1564,7 +1564,7 @@
         "hsChange": 7.58
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 861,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -1636,7 +1636,7 @@
     "title": "ウィリアム・テル序曲",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 437,
         "rollSeconds": 4.7,
         "balloonCount": 17,
@@ -1654,7 +1654,7 @@
     "title": "迅風丸",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 507,
         "rollSeconds": 4.489,
         "balloonCount": 39,
@@ -1720,7 +1720,7 @@
     "title": "第九交響曲",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.8,
         "totalNotes": 354,
         "rollSeconds": 3.277,
         "balloonCount": 0,
@@ -1756,7 +1756,7 @@
     "title": "駄々っ子モンスター",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 557,
         "rollSeconds": 2.24,
         "balloonCount": 0,
@@ -1804,7 +1804,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 497,
         "rollSeconds": 0.0,
         "balloonCount": 71,
@@ -1858,7 +1858,7 @@
     "title": "電車で電車でOPA！OPA！OPA！ ‐ GMT mashup ‐",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 658,
         "rollSeconds": 2.201,
         "balloonCount": 24,
@@ -1894,7 +1894,7 @@
     "title": "リッジでリッジでGO！GO！GO！ ‐ GMT mashup ‐",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 600,
         "rollSeconds": 8.219,
         "balloonCount": 15,
@@ -1966,7 +1966,7 @@
     "title": "さちさちにしてあげる♪",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 366,
         "rollSeconds": 3.875,
         "balloonCount": 136,
@@ -2032,7 +2032,7 @@
     "title": "夢をかなえてドラえもん",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 321,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -2050,7 +2050,7 @@
     "title": "Dream Tide",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.4,
         "totalNotes": 563,
         "rollSeconds": 0.0,
         "balloonCount": 18,
@@ -2068,7 +2068,7 @@
     "title": "ドラゴンスピリットメドレー",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 7.4,
         "totalNotes": 671,
         "rollSeconds": 0.486,
         "balloonCount": 0,
@@ -2086,7 +2086,7 @@
     "title": "シンフォニック ドルアーガ",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 9.3,
         "totalNotes": 420,
         "rollSeconds": 0.0,
         "balloonCount": 82,
@@ -2104,7 +2104,7 @@
     "title": "ドルアーガの塔メドレー",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 682,
         "rollSeconds": 0.931,
         "balloonCount": 0,
@@ -2122,7 +2122,7 @@
     "title": "D′s Adventure Note",
     "constants": {
       "oni": {
-        "constant": 10.3,
+        "constant": 10.2,
         "totalNotes": 872,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -2140,7 +2140,7 @@
     "title": "EkiBEN2000",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 876,
         "rollSeconds": 2.5,
         "balloonCount": 0,
@@ -2158,7 +2158,7 @@
     "title": "地平線のエオリア",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 563,
         "rollSeconds": 0.728,
         "balloonCount": 53,
@@ -2194,7 +2194,7 @@
     "title": "Eternal bond",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 635,
         "rollSeconds": 1.029,
         "balloonCount": 27,
@@ -2212,7 +2212,7 @@
     "title": "残酷な天使のテーゼ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 345,
         "rollSeconds": 2.779,
         "balloonCount": 0,
@@ -2260,7 +2260,7 @@
     "title": "ファミレスウォーズ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 723,
         "rollSeconds": 5.499,
         "balloonCount": 23,
@@ -2278,7 +2278,7 @@
     "title": "Scars of FAUNA",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 780,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -2308,7 +2308,7 @@
         "hsChange": 35.96
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.3,
         "totalNotes": 765,
         "rollSeconds": 4.815,
         "balloonCount": 0,
@@ -2326,7 +2326,7 @@
     "title": "+♂(プラス男子)",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.6,
         "totalNotes": 583,
         "rollSeconds": 0.0,
         "balloonCount": 126,
@@ -2338,7 +2338,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 900,
         "rollSeconds": 0.556,
         "balloonCount": 128,
@@ -2356,7 +2356,7 @@
     "title": "Fly away",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 579,
         "rollSeconds": 2.735,
         "balloonCount": 0,
@@ -2374,7 +2374,7 @@
     "title": "ファッションモンスター",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 374,
         "rollSeconds": 2.563,
         "balloonCount": 71,
@@ -2446,7 +2446,7 @@
     "title": "サタデー太鼓フィーバー",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 437,
         "rollSeconds": 1.308,
         "balloonCount": 48,
@@ -2458,7 +2458,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 600,
         "rollSeconds": 1.577,
         "balloonCount": 0,
@@ -2506,7 +2506,7 @@
     "title": "ファンタジーゾーン OPA-OPA！ ‐ GMT remix ‐",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 537,
         "rollSeconds": 5.847,
         "balloonCount": 20,
@@ -2524,7 +2524,7 @@
     "title": "G意識過剰",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.8,
         "totalNotes": 790,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -2539,10 +2539,10 @@
   },
   {
     "id": 153,
-    "title": "エンジェル ドリーム（デレマス）",
+    "title": "エンジェル ドリーム(デレマス)",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 694,
         "rollSeconds": 3.916,
         "balloonCount": 0,
@@ -2590,7 +2590,7 @@
     "title": "がしゃどくろ",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.6,
         "totalNotes": 614,
         "rollSeconds": 1.504,
         "balloonCount": 23,
@@ -2608,7 +2608,7 @@
     "title": "KAGEKIYO",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 765,
         "rollSeconds": 2.803,
         "balloonCount": 0,
@@ -2620,7 +2620,7 @@
         "hsChange": 0.84
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 999,
         "rollSeconds": 2.803,
         "balloonCount": 0,
@@ -2638,7 +2638,7 @@
     "title": "ゲラゲラポーのうた",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 329,
         "rollSeconds": 2.958,
         "balloonCount": 0,
@@ -2704,7 +2704,7 @@
     "title": "ごめんなさいのKissing You",
     "constants": {
       "oni": {
-        "constant": 6.8,
+        "constant": 7.0,
         "totalNotes": 336,
         "rollSeconds": 7.202,
         "balloonCount": 0,
@@ -2734,7 +2734,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 754,
         "rollSeconds": 8.676,
         "balloonCount": 75,
@@ -2854,7 +2854,7 @@
     "title": "重金属フューギティブ",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 653,
         "rollSeconds": 5.076,
         "balloonCount": 0,
@@ -2920,7 +2920,7 @@
         "hsChange": 32.65
       },
       "ura": {
-        "constant": 9.6,
+        "constant": 9.8,
         "totalNotes": 833,
         "rollSeconds": 0.803,
         "balloonCount": 6,
@@ -2938,7 +2938,7 @@
     "title": "はたラク2000",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 876,
         "rollSeconds": 0.729,
         "balloonCount": 30,
@@ -2956,7 +2956,7 @@
     "title": "隼",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.2,
         "totalNotes": 786,
         "rollSeconds": 1.882,
         "balloonCount": 4,
@@ -3004,7 +3004,7 @@
     "title": "ハロー！ ハロウィン",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 576,
         "rollSeconds": 2.164,
         "balloonCount": 94,
@@ -3022,7 +3022,7 @@
     "title": "少女の神の粒子",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.4,
         "totalNotes": 999,
         "rollSeconds": 3.324,
         "balloonCount": 89,
@@ -3052,7 +3052,7 @@
         "hsChange": 0.09
       },
       "ura": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 14,
@@ -3118,7 +3118,7 @@
     "title": "ゲラゲラと笑うな",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 929,
         "rollSeconds": 1.611,
         "balloonCount": 34,
@@ -3136,7 +3136,7 @@
     "title": "ボクハシンセ",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 612,
         "rollSeconds": 3.0,
         "balloonCount": 27,
@@ -3154,7 +3154,7 @@
     "title": "スクロール・ミカ",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 765,
         "rollSeconds": 0.766,
         "balloonCount": 30,
@@ -3190,7 +3190,7 @@
     "title": "夢色コースター",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 728,
         "rollSeconds": 1.844,
         "balloonCount": 89,
@@ -3244,7 +3244,7 @@
     "title": "お願い！シンデレラ",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 7.2,
         "totalNotes": 419,
         "rollSeconds": 9.63,
         "balloonCount": 0,
@@ -3274,7 +3274,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 530,
         "rollSeconds": 2.584,
         "balloonCount": 0,
@@ -3292,7 +3292,7 @@
     "title": "Honey Heartbeat ～10 Stars Mix～",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 765,
         "rollSeconds": 16.568,
         "balloonCount": 6,
@@ -3322,7 +3322,7 @@
     "title": "自分REST＠RT",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 567,
         "rollSeconds": 2.397,
         "balloonCount": 0,
@@ -3406,7 +3406,7 @@
     "title": "いぬのおまわりさん",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 328,
         "rollSeconds": 2.41,
         "balloonCount": 0,
@@ -3424,7 +3424,7 @@
     "title": "犬吠える",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 580,
         "rollSeconds": 2.583,
         "balloonCount": 34,
@@ -3478,7 +3478,7 @@
     "title": "ねがいごと☆ぱずる",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 551,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -3496,7 +3496,7 @@
     "title": "夜想曲Op.9－2",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 500,
         "rollSeconds": 1.666,
         "balloonCount": 11,
@@ -3514,7 +3514,7 @@
     "title": "時空庁時空1課",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 836,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -3532,7 +3532,7 @@
     "title": "時空庁捜査2課",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 773,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -3550,7 +3550,7 @@
     "title": "FLOWER",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 721,
         "rollSeconds": 4.594,
         "balloonCount": 5,
@@ -3628,7 +3628,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.3,
+        "constant": 10.2,
         "totalNotes": 800,
         "rollSeconds": 0.0,
         "balloonCount": 2,
@@ -3646,7 +3646,7 @@
     "title": "メタナイトの逆襲メドレー",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 655,
         "rollSeconds": 6.152,
         "balloonCount": 53,
@@ -3658,7 +3658,7 @@
         "hsChange": 6.27
       },
       "ura": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 1000,
         "rollSeconds": 3.501,
         "balloonCount": 105,
@@ -3676,7 +3676,7 @@
     "title": "ケチャドン2000",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.4,
         "totalNotes": 502,
         "rollSeconds": 0.227,
         "balloonCount": 0,
@@ -3712,7 +3712,7 @@
     "title": "キラメキラリ",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.0,
         "totalNotes": 691,
         "rollSeconds": 0.0,
         "balloonCount": 12,
@@ -3778,7 +3778,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 563,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -3832,7 +3832,7 @@
     "title": "久遠の夜",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 484,
         "rollSeconds": 1.27,
         "balloonCount": 16,
@@ -3850,7 +3850,7 @@
     "title": "鳳凰天舞無限崩れ",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 689,
         "rollSeconds": 0.0,
         "balloonCount": 20,
@@ -3904,7 +3904,7 @@
     "title": "万戈イム－一ノ十",
     "constants": {
       "oni": {
-        "constant": 10.9,
+        "constant": 11.0,
         "totalNotes": 999,
         "rollSeconds": 2.386,
         "balloonCount": 10,
@@ -3922,7 +3922,7 @@
     "title": "リンダリンダ",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 6.8,
         "totalNotes": 384,
         "rollSeconds": 2.103,
         "balloonCount": 32,
@@ -3940,7 +3940,7 @@
     "title": "明日も",
     "constants": {
       "oni": {
-        "constant": 4.0,
+        "constant": 3.0,
         "totalNotes": 397,
         "rollSeconds": 13.575,
         "balloonCount": 35,
@@ -3958,7 +3958,7 @@
     "title": "僕らは今のなかで",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 463,
         "rollSeconds": 4.134,
         "balloonCount": 0,
@@ -3976,7 +3976,7 @@
     "title": "LOVE戦!!",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 666,
         "rollSeconds": 1.751,
         "balloonCount": 24,
@@ -4024,7 +4024,7 @@
     "title": "愛×愛ホイッスル(カレーメシ公式曲)",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 949,
         "rollSeconds": 0.0,
         "balloonCount": 19,
@@ -4072,7 +4072,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 636,
         "rollSeconds": 1.813,
         "balloonCount": 4,
@@ -4108,7 +4108,7 @@
     "title": "めざせポケモンマスター ‐20th Anniversary‐",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 302,
         "rollSeconds": 7.457,
         "balloonCount": 67,
@@ -4138,7 +4138,7 @@
     "title": "MATSURI D／A",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 574,
         "rollSeconds": 1.769,
         "balloonCount": 0,
@@ -4156,7 +4156,7 @@
     "title": "The Magician’s Dream",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.5,
         "totalNotes": 724,
         "rollSeconds": 0.0,
         "balloonCount": 12,
@@ -4210,7 +4210,7 @@
     "title": "スーパーマリオブラザーズ",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 599,
         "rollSeconds": 3.806,
         "balloonCount": 0,
@@ -4258,7 +4258,7 @@
     "title": "〆ドレー2000",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 1414,
         "rollSeconds": 1.506,
         "balloonCount": 0,
@@ -4276,7 +4276,7 @@
     "title": "ドドンガド～ン",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 727,
         "rollSeconds": 0.0,
         "balloonCount": 31,
@@ -4306,7 +4306,7 @@
     "title": "STAY TUNE",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 6.8,
         "totalNotes": 417,
         "rollSeconds": 2.614,
         "balloonCount": 0,
@@ -4324,7 +4324,7 @@
     "title": "女々しくて",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 378,
         "rollSeconds": 12.588,
         "balloonCount": 32,
@@ -4360,7 +4360,7 @@
     "title": "めたるぽりす",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 594,
         "rollSeconds": 0.0,
         "balloonCount": 18,
@@ -4372,7 +4372,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -4480,7 +4480,7 @@
     "title": "蓄勢",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 654,
         "rollSeconds": 1.61,
         "balloonCount": 0,
@@ -4492,7 +4492,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 765,
         "rollSeconds": 1.61,
         "balloonCount": 0,
@@ -4552,7 +4552,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 700,
         "rollSeconds": 1.679,
         "balloonCount": 0,
@@ -4570,7 +4570,7 @@
     "title": "綻放",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.0,
         "totalNotes": 445,
         "rollSeconds": 0.843,
         "balloonCount": 0,
@@ -4582,7 +4582,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.1,
+        "constant": 8.3,
         "totalNotes": 585,
         "rollSeconds": 3.691,
         "balloonCount": 61,
@@ -4600,7 +4600,7 @@
     "title": "花漾",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 453,
         "rollSeconds": 2.715,
         "balloonCount": 10,
@@ -4630,7 +4630,7 @@
     "title": "魔法の喫茶店",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 708,
         "rollSeconds": 5.209,
         "balloonCount": 0,
@@ -4666,7 +4666,7 @@
     "title": "GO MY WAY!!",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 568,
         "rollSeconds": 0.944,
         "balloonCount": 32,
@@ -4714,7 +4714,7 @@
     "title": "カゲロウデイズ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 480,
         "rollSeconds": 10.931,
         "balloonCount": 0,
@@ -4726,7 +4726,7 @@
         "hsChange": 3.58
       },
       "ura": {
-        "constant": 8.7,
+        "constant": 9.2,
         "totalNotes": 688,
         "rollSeconds": 0.586,
         "balloonCount": 0,
@@ -4744,7 +4744,7 @@
     "title": "千本桜",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 831,
         "rollSeconds": 3.117,
         "balloonCount": 20,
@@ -4756,7 +4756,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 1000,
         "rollSeconds": 2.532,
         "balloonCount": 44,
@@ -4792,7 +4792,7 @@
     "title": "Growing Up",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 603,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -4810,7 +4810,7 @@
     "title": "mint tears",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.9,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 13,
@@ -4828,7 +4828,7 @@
     "title": "モンスターハンター4 メドレー",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.0,
         "totalNotes": 722,
         "rollSeconds": 6.411,
         "balloonCount": 36,
@@ -4846,7 +4846,7 @@
     "title": "ヘイ，ミスタープロフェッサー",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 567,
         "rollSeconds": 1.456,
         "balloonCount": 38,
@@ -4864,7 +4864,7 @@
     "title": "PaPaPa Love ～マッスル喜びのテーマ～",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 8.0,
         "totalNotes": 456,
         "rollSeconds": 0.0,
         "balloonCount": 120,
@@ -4900,7 +4900,7 @@
     "title": "M.S.S.Planet",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 8.8,
         "totalNotes": 624,
         "rollSeconds": 8.516,
         "balloonCount": 0,
@@ -4918,7 +4918,7 @@
     "title": "夢幻の蒼空",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 447,
         "rollSeconds": 5.195,
         "balloonCount": 0,
@@ -4936,7 +4936,7 @@
     "title": "無慈悲な王",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 443,
         "rollSeconds": 2.902,
         "balloonCount": 8,
@@ -4990,7 +4990,7 @@
     "title": "名乗り（天上）",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 480,
         "rollSeconds": 1.208,
         "balloonCount": 0,
@@ -5026,7 +5026,7 @@
     "title": "NECOLOGY",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 656,
         "rollSeconds": 0.0,
         "balloonCount": 13,
@@ -5044,7 +5044,7 @@
     "title": "ねぇ教えて",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 404,
         "rollSeconds": 2.05,
         "balloonCount": 55,
@@ -5098,7 +5098,7 @@
     "title": "にんじゃりばんばん",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 529,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -5128,7 +5128,7 @@
         "hsChange": 35.65
       },
       "ura": {
-        "constant": 10.6,
+        "constant": 10.7,
         "totalNotes": 876,
         "rollSeconds": 0.0,
         "balloonCount": 86,
@@ -5146,7 +5146,7 @@
     "title": "脳漿炸裂ガール",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 593,
         "rollSeconds": 5.42,
         "balloonCount": 0,
@@ -5158,7 +5158,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.9,
+        "constant": 10.1,
         "totalNotes": 710,
         "rollSeconds": 5.42,
         "balloonCount": 0,
@@ -5260,7 +5260,7 @@
     "title": "3Q‐4U‐AC00",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 539,
         "rollSeconds": 3.334,
         "balloonCount": 10,
@@ -5278,7 +5278,7 @@
     "title": "クルクルクロックル",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 615,
         "rollSeconds": 0.0,
         "balloonCount": 9,
@@ -5296,7 +5296,7 @@
     "title": "鏡の国のアリス",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 443,
         "rollSeconds": 2.0,
         "balloonCount": 22,
@@ -5338,7 +5338,7 @@
         "hsChange": 2.1
       },
       "ura": {
-        "constant": 8.9,
+        "constant": 8.7,
         "totalNotes": 556,
         "rollSeconds": 3.388,
         "balloonCount": 0,
@@ -5356,7 +5356,7 @@
     "title": "オリオンをなぞる",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 466,
         "rollSeconds": 3.241,
         "balloonCount": 0,
@@ -5374,7 +5374,7 @@
     "title": "ナックルヘッズ",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 639,
         "rollSeconds": 0.833,
         "balloonCount": 84,
@@ -5584,7 +5584,7 @@
     "title": "Jump Up, Super Star！ Short Version",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 410,
         "rollSeconds": 3.175,
         "balloonCount": 53,
@@ -5620,7 +5620,7 @@
     "title": "Walking Through The Towers",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 481,
         "rollSeconds": 1.134,
         "balloonCount": 104,
@@ -5638,7 +5638,7 @@
     "title": "想いを手に願いを込めて",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.5,
         "totalNotes": 581,
         "rollSeconds": 2.639,
         "balloonCount": 0,
@@ -5656,7 +5656,7 @@
     "title": "URBAN FRAGMENTS",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.7,
         "totalNotes": 375,
         "rollSeconds": 1.39,
         "balloonCount": 0,
@@ -5728,7 +5728,7 @@
     "title": "リバイバー",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 765,
         "rollSeconds": 5.254,
         "balloonCount": 50,
@@ -5746,7 +5746,7 @@
     "title": "らいとにんぐ ぱっしょん",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.2,
         "totalNotes": 577,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -5776,7 +5776,7 @@
     "title": "わんにゃーワールド",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.4,
         "totalNotes": 765,
         "rollSeconds": 2.33,
         "balloonCount": 64,
@@ -5794,7 +5794,7 @@
     "title": "Saika",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 593,
         "rollSeconds": 1.602,
         "balloonCount": 78,
@@ -5866,7 +5866,7 @@
     "title": "さいたま2000",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 570,
         "rollSeconds": 2.35,
         "balloonCount": 50,
@@ -5902,7 +5902,7 @@
     "title": "はやさいたま2000",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 570,
         "rollSeconds": 1.88,
         "balloonCount": 50,
@@ -5932,7 +5932,7 @@
         "hsChange": 0.59
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 944,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -5950,7 +5950,7 @@
     "title": "オパ！オパ！RACER ‐ GMT mashup ‐",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.5,
         "totalNotes": 682,
         "rollSeconds": 1.482,
         "balloonCount": 0,
@@ -6016,7 +6016,7 @@
         "hsChange": 0.39
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 765,
         "rollSeconds": 1.83,
         "balloonCount": 12,
@@ -6034,7 +6034,7 @@
     "title": "BLUE TOPAZ",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.5,
         "totalNotes": 639,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6052,7 +6052,7 @@
     "title": "Kamikaze Remix",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 737,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6070,7 +6070,7 @@
     "title": "RAGE v.self",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 545,
         "rollSeconds": 1.597,
         "balloonCount": 0,
@@ -6118,7 +6118,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 724,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6136,7 +6136,7 @@
     "title": "風の国の龍と騎士",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 624,
         "rollSeconds": 1.469,
         "balloonCount": 111,
@@ -6184,7 +6184,7 @@
     "title": "旋風ノ舞【天】",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 616,
         "rollSeconds": 2.594,
         "balloonCount": 0,
@@ -6196,7 +6196,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 599,
         "rollSeconds": 2.594,
         "balloonCount": 12,
@@ -6214,7 +6214,7 @@
     "title": "旋風ノ舞【地】",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 693,
         "rollSeconds": 5.907,
         "balloonCount": 0,
@@ -6268,7 +6268,7 @@
     "title": "恋の処方箋",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 361,
         "rollSeconds": 4.459,
         "balloonCount": 0,
@@ -6304,7 +6304,7 @@
     "title": "レイン",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 299,
         "rollSeconds": 1.211,
         "balloonCount": 10,
@@ -6394,7 +6394,7 @@
     "title": "恋文2000",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 777,
         "rollSeconds": 0.575,
         "balloonCount": 0,
@@ -6412,7 +6412,7 @@
     "title": "SMOKY THRILL",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.4,
         "totalNotes": 492,
         "rollSeconds": 5.24,
         "balloonCount": 54,
@@ -6466,7 +6466,7 @@
     "title": "SORA‐Ⅱ グリーゼ581",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 567,
         "rollSeconds": 0.0,
         "balloonCount": 15,
@@ -6484,7 +6484,7 @@
     "title": "SORA‐Ⅵ 火ノ鳥",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 666,
         "rollSeconds": 7.426,
         "balloonCount": 0,
@@ -6502,7 +6502,7 @@
     "title": "十露盤2000",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 765,
         "rollSeconds": 7.022,
         "balloonCount": 60,
@@ -6610,7 +6610,7 @@
     "title": "カナデア",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 643,
         "rollSeconds": 0.0,
         "balloonCount": 14,
@@ -6640,7 +6640,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 1000,
         "rollSeconds": 6.235,
         "balloonCount": 0,
@@ -6670,7 +6670,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 1000,
         "rollSeconds": 6.235,
         "balloonCount": 0,
@@ -6706,7 +6706,7 @@
     "title": "Rotter Tarmination",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 9.0,
         "totalNotes": 681,
         "rollSeconds": 0.0,
         "balloonCount": 1019,
@@ -6736,7 +6736,7 @@
     "title": "らんぶる乱舞",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 625,
         "rollSeconds": 3.656,
         "balloonCount": 0,
@@ -6748,7 +6748,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6766,7 +6766,7 @@
     "title": "タベルナ2000",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.9,
         "totalNotes": 821,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6784,7 +6784,7 @@
     "title": "やわらか戦車",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 488,
         "rollSeconds": 2.299,
         "balloonCount": 0,
@@ -6796,7 +6796,7 @@
         "hsChange": 4.88
       },
       "ura": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 889,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6814,7 +6814,7 @@
     "title": "ツンデレCafeへようこそ☆",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 555,
         "rollSeconds": 7.676,
         "balloonCount": 0,
@@ -6850,7 +6850,7 @@
     "title": "Highschool love！",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 387,
         "rollSeconds": 2.319,
         "balloonCount": 0,
@@ -6868,7 +6868,7 @@
     "title": "天妖ノ舞",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.0,
         "totalNotes": 687,
         "rollSeconds": 0.0,
         "balloonCount": 15,
@@ -6904,7 +6904,7 @@
     "title": "ナイト・オブ・ナイツ",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.4,
         "totalNotes": 651,
         "rollSeconds": 3.168,
         "balloonCount": 17,
@@ -6940,7 +6940,7 @@
     "title": "チルノのパーフェクトさんすう教室",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 692,
         "rollSeconds": 4.0,
         "balloonCount": 10,
@@ -6952,7 +6952,7 @@
         "hsChange": 23.96
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.9,
         "totalNotes": 939,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -6988,7 +6988,7 @@
     "title": "Help me, ERINNNNNN!!",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 542,
         "rollSeconds": 3.144,
         "balloonCount": 68,
@@ -7006,7 +7006,7 @@
     "title": "Grip ＆ Break down !! ‐達人Edit.‐",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 495,
         "rollSeconds": 10.531,
         "balloonCount": 0,
@@ -7036,7 +7036,7 @@
     "title": "幻想のサテライト",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.8,
         "totalNotes": 611,
         "rollSeconds": 8.564,
         "balloonCount": 0,
@@ -7054,7 +7054,7 @@
     "title": "ケロ⑨destiny",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 769,
         "rollSeconds": 5.231,
         "balloonCount": 28,
@@ -7090,7 +7090,7 @@
     "title": "ネクロファンタジア ～ Arr.Demetori",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 1160,
         "rollSeconds": 17.834,
         "balloonCount": 0,
@@ -7138,7 +7138,7 @@
     "title": "Endless Seeker",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 644,
         "rollSeconds": 2.084,
         "balloonCount": 62,
@@ -7156,7 +7156,7 @@
     "title": "東京ソーダ 8Bit Edit",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 745,
         "rollSeconds": 0.0,
         "balloonCount": 28,
@@ -7174,7 +7174,7 @@
     "title": "タイコタイム",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 35,
@@ -7186,7 +7186,7 @@
         "hsChange": 0.74
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 10.0,
         "totalNotes": 876,
         "rollSeconds": 0.0,
         "balloonCount": 140,
@@ -7240,7 +7240,7 @@
     "title": "東京特許キョ許可局局長!!",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.2,
         "totalNotes": 840,
         "rollSeconds": 3.818,
         "balloonCount": 20,
@@ -7312,7 +7312,7 @@
     "title": "忘却のティルナノグ",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 794,
         "rollSeconds": 0.0,
         "balloonCount": 46,
@@ -7330,7 +7330,7 @@
     "title": "エンジェル ドリーム",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 765,
         "rollSeconds": 5.888,
         "balloonCount": 0,
@@ -7360,7 +7360,7 @@
     "title": "ロシア民謡メドレー",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 468,
         "rollSeconds": 3.067,
         "balloonCount": 9,
@@ -7378,7 +7378,7 @@
     "title": "戦え！ T3防衛隊 ～GDI mix～",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 583,
         "rollSeconds": 7.005,
         "balloonCount": 23,
@@ -7396,7 +7396,7 @@
     "title": "うさぎのしっぽ",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.4,
         "totalNotes": 521,
         "rollSeconds": 4.147,
         "balloonCount": 0,
@@ -7432,7 +7432,7 @@
     "title": "ウルトラマンギンガの歌",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 818,
         "rollSeconds": 14.376,
         "balloonCount": 0,
@@ -7450,7 +7450,7 @@
     "title": "うそうそ時",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 657,
         "rollSeconds": 0.531,
         "balloonCount": 0,
@@ -7486,7 +7486,7 @@
     "title": "VERTeX",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 806,
         "rollSeconds": 5.946,
         "balloonCount": 0,
@@ -7522,7 +7522,7 @@
     "title": "テルミン狂想曲",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 401,
         "rollSeconds": 0.0,
         "balloonCount": 227,
@@ -7540,7 +7540,7 @@
     "title": "オレサマパイレーツ",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.6,
         "totalNotes": 663,
         "rollSeconds": 2.364,
         "balloonCount": 29,
@@ -7576,7 +7576,7 @@
     "title": "White Rose Insanity",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 494,
         "rollSeconds": 10.001,
         "balloonCount": 24,
@@ -7588,7 +7588,7 @@
         "hsChange": 27.71
       },
       "ura": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 666,
         "rollSeconds": 0.0,
         "balloonCount": 5,
@@ -7672,7 +7672,7 @@
     "title": "Xa",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.5,
         "totalNotes": 675,
         "rollSeconds": 5.517,
         "balloonCount": 0,
@@ -7702,7 +7702,7 @@
     "title": "X-DAY2000",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 765,
         "rollSeconds": 1.711,
         "balloonCount": 0,
@@ -7720,7 +7720,7 @@
     "title": "紅",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 999,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -7756,7 +7756,7 @@
     "title": "豊穣弥生",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 441,
         "rollSeconds": 0.675,
         "balloonCount": 49,
@@ -7792,7 +7792,7 @@
     "title": "ダンバ・ダンバ・ディン・ダン",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 683,
         "rollSeconds": 0.5,
         "balloonCount": 81,
@@ -7810,7 +7810,7 @@
     "title": "リスドンヴァルナの黄昏",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 605,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -7828,7 +7828,7 @@
     "title": "ドン・エンガスの笛吹き",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 553,
         "rollSeconds": 0.975,
         "balloonCount": 0,
@@ -7846,7 +7846,7 @@
     "title": "ようかい体操第一",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 272,
         "rollSeconds": 3.8,
         "balloonCount": 0,
@@ -7864,7 +7864,7 @@
     "title": "よくでる2000",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 657,
         "rollSeconds": 2.06,
         "balloonCount": 0,
@@ -7954,7 +7954,7 @@
     "title": "初恋峠でゲラゲラポー",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 282,
         "rollSeconds": 8.616,
         "balloonCount": 21,
@@ -7972,7 +7972,7 @@
     "title": "祭り囃子でゲラゲラポー",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 292,
         "rollSeconds": 1.367,
         "balloonCount": 64,
@@ -7990,7 +7990,7 @@
     "title": "未来への鍵",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.4,
         "totalNotes": 468,
         "rollSeconds": 1.095,
         "balloonCount": 0,
@@ -8056,7 +8056,7 @@
     "title": "BORDERLESS",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 670,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -8074,7 +8074,7 @@
     "title": "エキセントリックｗ",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 692,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -8128,7 +8128,7 @@
     "title": "THE IDOLM＠STER",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 765,
         "rollSeconds": 8.122,
         "balloonCount": 0,
@@ -8140,7 +8140,7 @@
         "hsChange": 72.69
       },
       "ura": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 555,
         "rollSeconds": 4.575,
         "balloonCount": 0,
@@ -8158,7 +8158,7 @@
     "title": "Thank You！",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 500,
         "rollSeconds": 13.278,
         "balloonCount": 0,
@@ -8218,7 +8218,7 @@
         "hsChange": 51.37
       },
       "ura": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 475,
         "rollSeconds": 3.47,
         "balloonCount": 0,
@@ -8248,7 +8248,7 @@
         "hsChange": 7.42
       },
       "ura": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 513,
         "rollSeconds": 7.107,
         "balloonCount": 14,
@@ -8266,7 +8266,7 @@
     "title": "待ち受けプリンス",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 600,
         "rollSeconds": 7.258,
         "balloonCount": 8,
@@ -8302,7 +8302,7 @@
     "title": "ラッスンゴレライ",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 556,
         "rollSeconds": 8.384,
         "balloonCount": 0,
@@ -8368,7 +8368,7 @@
     "title": "華振舞",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 932,
         "rollSeconds": 3.302,
         "balloonCount": 0,
@@ -8404,7 +8404,7 @@
     "title": "ウルトラマンX",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 552,
         "rollSeconds": 10.191,
         "balloonCount": 21,
@@ -8452,7 +8452,7 @@
     "title": "深緋の心臓 ‐SCARLET HEART‐",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 666,
         "rollSeconds": 4.159,
         "balloonCount": 4,
@@ -8488,7 +8488,7 @@
     "title": "Ladystar Wandering",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 521,
         "rollSeconds": 1.308,
         "balloonCount": 123,
@@ -8524,7 +8524,7 @@
     "title": "希望へのメロディー",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 672,
         "rollSeconds": 10.156,
         "balloonCount": 40,
@@ -8554,7 +8554,7 @@
     "title": "クロス・ブルー",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.2,
         "totalNotes": 962,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -8668,7 +8668,7 @@
         "hsChange": 6.69
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.1,
         "totalNotes": 778,
         "rollSeconds": 1.788,
         "balloonCount": 33,
@@ -8716,7 +8716,7 @@
     "title": "ブレイクライン",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.5,
         "totalNotes": 603,
         "rollSeconds": 5.452,
         "balloonCount": 10,
@@ -8746,7 +8746,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 546,
         "rollSeconds": 3.879,
         "balloonCount": 3,
@@ -8764,7 +8764,7 @@
     "title": "DRIVE A LIVE",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 456,
         "rollSeconds": 3.107,
         "balloonCount": 86,
@@ -8818,7 +8818,7 @@
     "title": "DREAMERS’ PARADISE",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 488,
         "rollSeconds": 3.968,
         "balloonCount": 45,
@@ -8836,7 +8836,7 @@
     "title": "それは僕たちの奇跡",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 377,
         "rollSeconds": 7.946,
         "balloonCount": 0,
@@ -8854,7 +8854,7 @@
     "title": "夜明けまであと3秒",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 814,
         "rollSeconds": 0.962,
         "balloonCount": 9,
@@ -8890,7 +8890,7 @@
     "title": "秋竜 ～Shiuryu～",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 750,
         "rollSeconds": 1.83,
         "balloonCount": 16,
@@ -8920,7 +8920,7 @@
     "title": "Silent Jealousy",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 1071,
         "rollSeconds": 2.404,
         "balloonCount": 20,
@@ -8986,7 +8986,7 @@
     "title": "てんびん座急行 夜を行く",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 669,
         "rollSeconds": 0.0,
         "balloonCount": 15,
@@ -9004,7 +9004,7 @@
     "title": "Heaven’s Rider",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 714,
         "rollSeconds": 4.269,
         "balloonCount": 0,
@@ -9022,7 +9022,7 @@
     "title": "マリオネットピュア",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 619,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -9040,7 +9040,7 @@
     "title": "I my moko",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 465,
         "rollSeconds": 4.285,
         "balloonCount": 0,
@@ -9076,7 +9076,7 @@
     "title": "GEEDの証",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.2,
         "totalNotes": 410,
         "rollSeconds": 4.428,
         "balloonCount": 13,
@@ -9172,7 +9172,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 999,
         "rollSeconds": 2.12,
         "balloonCount": 35,
@@ -9208,7 +9208,7 @@
     "title": "本能寺の変",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 473,
         "rollSeconds": 2.386,
         "balloonCount": 30,
@@ -9244,7 +9244,7 @@
     "title": "アイ MUST GO！",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 414,
         "rollSeconds": 12.57,
         "balloonCount": 0,
@@ -9280,7 +9280,7 @@
     "title": "TO MAKE THE END OF BATTLE",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.1,
         "totalNotes": 602,
         "rollSeconds": 1.464,
         "balloonCount": 0,
@@ -9298,7 +9298,7 @@
     "title": "指先からはじまる物語",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 765,
         "rollSeconds": 6.552,
         "balloonCount": 13,
@@ -9316,7 +9316,7 @@
     "title": "ワンダーモモーイ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 550,
         "rollSeconds": 3.0,
         "balloonCount": 0,
@@ -9334,7 +9334,7 @@
     "title": "恋幻想（Love Fantasy）",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 649,
         "rollSeconds": 0.0,
         "balloonCount": 24,
@@ -9370,7 +9370,7 @@
     "title": "KUSANAGI",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 745,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -9388,7 +9388,7 @@
     "title": "蝶戀",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 445,
         "rollSeconds": 2.76,
         "balloonCount": 0,
@@ -9400,7 +9400,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 553,
         "rollSeconds": 2.76,
         "balloonCount": 0,
@@ -9418,7 +9418,7 @@
     "title": "EAT’EM UP！",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 602,
         "rollSeconds": 2.99,
         "balloonCount": 20,
@@ -9466,7 +9466,7 @@
     "title": "黒船来航",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 661,
         "rollSeconds": 0.26,
         "balloonCount": 0,
@@ -9502,7 +9502,7 @@
     "title": "私以外私じゃないの",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 344,
         "rollSeconds": 0.85,
         "balloonCount": 5,
@@ -9538,7 +9538,7 @@
     "title": "トオリヨ",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 664,
         "rollSeconds": 0.92,
         "balloonCount": 8,
@@ -9556,7 +9556,7 @@
     "title": "Choco Chiptune.",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 640,
         "rollSeconds": 3.38,
         "balloonCount": 88,
@@ -9574,7 +9574,7 @@
     "title": "輝きを求めて",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 471,
         "rollSeconds": 6.85,
         "balloonCount": 16,
@@ -9592,7 +9592,7 @@
     "title": "ほうかご☆マジシャン",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 585,
         "rollSeconds": 0.0,
         "balloonCount": 75,
@@ -9610,7 +9610,7 @@
     "title": "凛",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 672,
         "rollSeconds": 3.26,
         "balloonCount": 15,
@@ -9736,7 +9736,7 @@
     "title": "食らいむ！まうんとぱふぇ",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.6,
         "totalNotes": 765,
         "rollSeconds": 4.3,
         "balloonCount": 10,
@@ -9790,7 +9790,7 @@
     "title": "おにぎりはどこかしら♪",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.8,
         "totalNotes": 854,
         "rollSeconds": 4.29,
         "balloonCount": 14,
@@ -9826,7 +9826,7 @@
     "title": "カノン (シンクロニカ Remix)",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 543,
         "rollSeconds": 5.02,
         "balloonCount": 111,
@@ -9844,7 +9844,7 @@
     "title": "真・画竜点睛",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.1,
         "totalNotes": 588,
         "rollSeconds": 1.28,
         "balloonCount": 0,
@@ -9856,7 +9856,7 @@
         "hsChange": 9.27
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.1,
         "totalNotes": 566,
         "rollSeconds": 0.19,
         "balloonCount": 0,
@@ -9874,7 +9874,7 @@
     "title": "スポーツダイジェスドン",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 436,
         "rollSeconds": 0.0,
         "balloonCount": 30,
@@ -9886,7 +9886,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 733,
         "rollSeconds": 3.27,
         "balloonCount": 32,
@@ -9922,7 +9922,7 @@
     "title": "ソラのミチシルベ",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 6.8,
         "totalNotes": 339,
         "rollSeconds": 8.53,
         "balloonCount": 20,
@@ -9940,7 +9940,7 @@
     "title": "黄泉のイザナミ",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 876,
         "rollSeconds": 5.75,
         "balloonCount": 0,
@@ -9958,7 +9958,7 @@
     "title": "Holding Hands",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 397,
         "rollSeconds": 3.15,
         "balloonCount": 40,
@@ -9976,7 +9976,7 @@
     "title": "Unite The Force",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 406,
         "rollSeconds": 6.92,
         "balloonCount": 39,
@@ -10012,7 +10012,7 @@
     "title": "ネテモネテモ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 550,
         "rollSeconds": 5.89,
         "balloonCount": 0,
@@ -10030,7 +10030,7 @@
     "title": "ひよっこファンタジー",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 583,
         "rollSeconds": 2.82,
         "balloonCount": 35,
@@ -10102,7 +10102,7 @@
     "title": "Diver",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 9.0,
         "totalNotes": 622,
         "rollSeconds": 4.08,
         "balloonCount": 0,
@@ -10120,7 +10120,7 @@
     "title": "スプラトゥーン2 メドレー",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.4,
         "totalNotes": 441,
         "rollSeconds": 0.0,
         "balloonCount": 26,
@@ -10168,7 +10168,7 @@
     "title": "東京テディベア",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 797,
         "rollSeconds": 0.71,
         "balloonCount": 0,
@@ -10186,7 +10186,7 @@
     "title": "PERFECT HUMAN",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.3,
         "totalNotes": 365,
         "rollSeconds": 5.74,
         "balloonCount": 40,
@@ -10204,7 +10204,7 @@
     "title": "おさかな毎日！さかなクン",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 340,
         "rollSeconds": 0.94,
         "balloonCount": 41,
@@ -10240,7 +10240,7 @@
     "title": "Over Clock～開放～",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 596,
         "rollSeconds": 5.08,
         "balloonCount": 0,
@@ -10258,7 +10258,7 @@
     "title": "世界はいつでもミステリー",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 365,
         "rollSeconds": 8.64,
         "balloonCount": 20,
@@ -10312,7 +10312,7 @@
     "title": "夢と現実の境界線",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.9,
         "totalNotes": 603,
         "rollSeconds": 1.68,
         "balloonCount": 50,
@@ -10330,7 +10330,7 @@
     "title": "天狗囃子",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 9.9,
         "totalNotes": 734,
         "rollSeconds": 1.56,
         "balloonCount": 0,
@@ -10402,7 +10402,7 @@
     "title": "オーブの祈り",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.0,
         "totalNotes": 1062,
         "rollSeconds": 0.0,
         "balloonCount": 113,
@@ -10420,7 +10420,7 @@
     "title": "バトル－電光石火－",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 364,
         "rollSeconds": 3.81,
         "balloonCount": 14,
@@ -10438,7 +10438,7 @@
     "title": "Good‐bye my earth",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 476,
         "rollSeconds": 2.03,
         "balloonCount": 32,
@@ -10474,7 +10474,7 @@
     "title": "美しく忙しきドナウ",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 682,
         "rollSeconds": 3.758,
         "balloonCount": 14,
@@ -10540,7 +10540,7 @@
     "title": "SAKURA EXHAUST",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 765,
         "rollSeconds": 0.48,
         "balloonCount": 0,
@@ -10594,7 +10594,7 @@
     "title": "太鼓のマーチ",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 7.2,
         "totalNotes": 553,
         "rollSeconds": 0.48,
         "balloonCount": 18,
@@ -10612,7 +10612,7 @@
     "title": "須佐之男",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 686,
         "rollSeconds": 0.0,
         "balloonCount": 7,
@@ -10648,7 +10648,7 @@
     "title": "仙酌絶唱のファンタジア",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 701,
         "rollSeconds": 9.22,
         "balloonCount": 131,
@@ -10720,7 +10720,7 @@
     "title": "華蕾夢ミル狂詩曲～魂ノ導～",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 765,
         "rollSeconds": 0.3,
         "balloonCount": 0,
@@ -10732,7 +10732,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 832,
         "rollSeconds": 0.0,
         "balloonCount": 6,
@@ -10762,7 +10762,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 756,
         "rollSeconds": 3.31,
         "balloonCount": 75,
@@ -10798,7 +10798,7 @@
     "title": "チェインクロニクル 総力戦メドレー",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 425,
         "rollSeconds": 10.93,
         "balloonCount": 96,
@@ -10828,7 +10828,7 @@
     "title": "毒LOＣＡＮdy♡",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 777,
         "rollSeconds": 9.03,
         "balloonCount": 15,
@@ -10846,7 +10846,7 @@
     "title": "太鼓乱舞 皆伝",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 639,
         "rollSeconds": 0.27,
         "balloonCount": 12,
@@ -10864,7 +10864,7 @@
     "title": "合唱スタボーフェ！",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 673,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -10894,7 +10894,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 614,
         "rollSeconds": 6.154,
         "balloonCount": 0,
@@ -10912,7 +10912,7 @@
     "title": "戦国三弦",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 678,
         "rollSeconds": 0.17,
         "balloonCount": 33,
@@ -10930,7 +10930,7 @@
     "title": "GERMINATION",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 616,
         "rollSeconds": 0.703,
         "balloonCount": 51,
@@ -10940,24 +10940,6 @@
         "separation": 1.89,
         "bpmChange": 71.1,
         "hsChange": 3.88
-      }
-    }
-  },
-  {
-    "id": 660,
-    "title": "エイリアンエイリアン",
-    "constants": {
-      "oni": {
-        "constant": 9.0,
-        "totalNotes": 746,
-        "rollSeconds": 5.86,
-        "balloonCount": 5,
-        "composite": 53.22,
-        "avgDensity": 35.99,
-        "instDensity": 20.98,
-        "separation": 14.67,
-        "bpmChange": 0.0,
-        "hsChange": 4.83
       }
     }
   },
@@ -10984,7 +10966,7 @@
     "title": "ヒカリノカナタヘ",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.1,
         "totalNotes": 797,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -11020,7 +11002,7 @@
     "title": "どん子のファーストデート",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 427,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -11032,7 +11014,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 808,
         "rollSeconds": 0.26,
         "balloonCount": 0,
@@ -11050,7 +11032,7 @@
     "title": "ヒカリアレ",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 639,
         "rollSeconds": 0.96,
         "balloonCount": 17,
@@ -11068,7 +11050,7 @@
     "title": "ペンパイナッポーアッポーペン（PPAP）",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 156,
         "rollSeconds": 7.0,
         "balloonCount": 6,
@@ -11116,7 +11098,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.0,
+        "constant": 9.1,
         "totalNotes": 677,
         "rollSeconds": 1.49,
         "balloonCount": 20,
@@ -11170,7 +11152,7 @@
     "title": "Never say never",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 675,
         "rollSeconds": 3.21,
         "balloonCount": 0,
@@ -11200,7 +11182,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 667,
         "rollSeconds": 11.0,
         "balloonCount": 0,
@@ -11236,7 +11218,7 @@
     "title": "元祖！天才チルノちゃん☆",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 859,
         "rollSeconds": 6.08,
         "balloonCount": 0,
@@ -11284,7 +11266,7 @@
     "title": "FooFooカセット",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 810,
         "rollSeconds": 2.31,
         "balloonCount": 48,
@@ -11374,7 +11356,7 @@
     "title": "ゴーゴー・キッチン",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 558,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -11404,7 +11386,7 @@
     "title": "誘惑",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 569,
         "rollSeconds": 5.22,
         "balloonCount": 0,
@@ -11422,7 +11404,7 @@
     "title": "HOWEVER",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 304,
         "rollSeconds": 10.03,
         "balloonCount": 20,
@@ -11440,7 +11422,7 @@
     "title": "拝啓ドッペルゲンガー",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 901,
         "rollSeconds": 1.52,
         "balloonCount": 0,
@@ -11542,7 +11524,7 @@
     "title": "つながれ！ひろがれ！打ち上がれ！",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.1,
         "totalNotes": 776,
         "rollSeconds": 1.77,
         "balloonCount": 73,
@@ -11578,7 +11560,7 @@
     "title": "コナモノ☆",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 576,
         "rollSeconds": 0.0,
         "balloonCount": 25,
@@ -11614,7 +11596,7 @@
     "title": "フューチャー・ラボ",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 672,
         "rollSeconds": 0.0,
         "balloonCount": 50,
@@ -11632,7 +11614,7 @@
     "title": "恋はみずいろ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 350,
         "rollSeconds": 2.31,
         "balloonCount": 60,
@@ -11650,7 +11632,7 @@
     "title": "Brand New Theater！",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 734,
         "rollSeconds": 1.95,
         "balloonCount": 60,
@@ -11698,7 +11680,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 579,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -11716,7 +11698,7 @@
     "title": "SHOGYO MUJO",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 765,
         "rollSeconds": 29.93,
         "balloonCount": 10,
@@ -11770,7 +11752,7 @@
     "title": "彼は誰時の誘惑",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 553,
         "rollSeconds": 7.01,
         "balloonCount": 156,
@@ -11800,7 +11782,7 @@
     "title": "SAMURAI ROCKET",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.4,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 40,
@@ -11812,7 +11794,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 888,
         "rollSeconds": 1.32,
         "balloonCount": 60,
@@ -11878,7 +11860,7 @@
         "hsChange": 28.24
       },
       "ura": {
-        "constant": 11.3,
+        "constant": 11.4,
         "totalNotes": 1167,
         "rollSeconds": 0.62,
         "balloonCount": 2,
@@ -11932,7 +11914,7 @@
     "title": "よーいドン！",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.0,
         "totalNotes": 777,
         "rollSeconds": 1.06,
         "balloonCount": 7,
@@ -11950,7 +11932,7 @@
     "title": "零 ‐ZERO‐",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 498,
         "rollSeconds": 3.1,
         "balloonCount": 0,
@@ -11968,7 +11950,7 @@
     "title": "さよならエレジー",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 496,
         "rollSeconds": 1.68,
         "balloonCount": 0,
@@ -11986,7 +11968,7 @@
     "title": "アスノヨゾラ哨戒班",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 719,
         "rollSeconds": 11.65,
         "balloonCount": 11,
@@ -12004,7 +11986,7 @@
     "title": "太陽系デスコ",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.1,
         "totalNotes": 633,
         "rollSeconds": 8.24,
         "balloonCount": 42,
@@ -12022,7 +12004,7 @@
     "title": "ヒバナ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 669,
         "rollSeconds": 5.0,
         "balloonCount": 15,
@@ -12070,7 +12052,7 @@
     "title": "JOIN US",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 420,
         "rollSeconds": 3.97,
         "balloonCount": 14,
@@ -12106,7 +12088,7 @@
     "title": "D絶対！SAMURAIインザレイン",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 669,
         "rollSeconds": 3.93,
         "balloonCount": 24,
@@ -12136,7 +12118,7 @@
     "title": "人のお金で焼肉を食したい！",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 498,
         "rollSeconds": 12.23,
         "balloonCount": 35,
@@ -12166,7 +12148,7 @@
     "title": "トイマチック☆パレード!!",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 851,
         "rollSeconds": 3.26,
         "balloonCount": 20,
@@ -12202,7 +12184,7 @@
     "title": "KARMA（Tatsujin Mix）",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 876,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -12220,7 +12202,7 @@
     "title": "Where is the Target？",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 546,
         "rollSeconds": 2.43,
         "balloonCount": 76,
@@ -12238,7 +12220,7 @@
     "title": "フリフリ♪ノリノリ♪",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 386,
         "rollSeconds": 5.579,
         "balloonCount": 40,
@@ -12250,7 +12232,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 665,
         "rollSeconds": 2.474,
         "balloonCount": 22,
@@ -12304,7 +12286,7 @@
     "title": "マジカル・パフェ",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 652,
         "rollSeconds": 0.0,
         "balloonCount": 18,
@@ -12322,7 +12304,7 @@
     "title": "行かないでイカロス",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.4,
         "totalNotes": 666,
         "rollSeconds": 0.44,
         "balloonCount": 4,
@@ -12358,7 +12340,7 @@
     "title": "マオウのショウタイム",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.9,
         "totalNotes": 888,
         "rollSeconds": 2.58,
         "balloonCount": 15,
@@ -12394,7 +12376,7 @@
     "title": "シャイニング☆アブラカタブラ",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 666,
         "rollSeconds": 0.2,
         "balloonCount": 0,
@@ -12412,7 +12394,7 @@
     "title": "カウントダウン",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 593,
         "rollSeconds": 9.35,
         "balloonCount": 3,
@@ -12502,7 +12484,7 @@
     "title": "ouroboros ‐twin stroke of the end‐",
     "constants": {
       "oni": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 1134,
         "rollSeconds": 1.94,
         "balloonCount": 102,
@@ -12658,7 +12640,7 @@
     "title": "ダンスロボットダンス",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 876,
         "rollSeconds": 7.34,
         "balloonCount": 0,
@@ -12676,7 +12658,7 @@
     "title": "カンタービレ×パッシオーネ",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 509,
         "rollSeconds": 7.06,
         "balloonCount": 92,
@@ -12706,7 +12688,7 @@
     "title": "命短し恋せよ乙女",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 487,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -12754,7 +12736,7 @@
         "hsChange": 21.16
       },
       "ura": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 824,
         "rollSeconds": 0.1,
         "balloonCount": 45,
@@ -12772,7 +12754,7 @@
     "title": "GO GET’EM！",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 555,
         "rollSeconds": 0.89,
         "balloonCount": 0,
@@ -12784,7 +12766,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 648,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -12820,7 +12802,7 @@
     "title": "λ7708",
     "constants": {
       "oni": {
-        "constant": 11.0,
+        "constant": 11.1,
         "totalNotes": 788,
         "rollSeconds": 0.0,
         "balloonCount": 38,
@@ -12892,7 +12874,7 @@
     "title": "Marine Mirage",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.2,
         "totalNotes": 522,
         "rollSeconds": 8.56,
         "balloonCount": 12,
@@ -12910,7 +12892,7 @@
     "title": "Dive to Blue",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 641,
         "rollSeconds": 2.2,
         "balloonCount": 13,
@@ -12946,7 +12928,7 @@
     "title": "ユースフルコースター",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 724,
         "rollSeconds": 1.62,
         "balloonCount": 22,
@@ -13030,7 +13012,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 591,
         "rollSeconds": 0.0,
         "balloonCount": 3,
@@ -13048,7 +13030,7 @@
     "title": "バイオレンストリガー",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 520,
         "rollSeconds": 3.09,
         "balloonCount": 42,
@@ -13132,7 +13114,7 @@
     "title": "こ・き・く・くる・くる・くれ・こ！",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 531,
         "rollSeconds": 3.18,
         "balloonCount": 63,
@@ -13150,7 +13132,7 @@
     "title": "トラストゲーム",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.4,
         "totalNotes": 657,
         "rollSeconds": 3.02,
         "balloonCount": 0,
@@ -13234,7 +13216,7 @@
     "title": "Pixel Galaxy",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 740,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -13252,7 +13234,7 @@
     "title": "ハイスペックニート",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 429,
         "rollSeconds": 4.98,
         "balloonCount": 0,
@@ -13270,7 +13252,7 @@
     "title": "アルカリレットウセイ",
     "constants": {
       "oni": {
-        "constant": 6.8,
+        "constant": 7.0,
         "totalNotes": 434,
         "rollSeconds": 3.13,
         "balloonCount": 0,
@@ -13468,7 +13450,7 @@
     "title": "和有るど経りて維持・序",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 581,
         "rollSeconds": 5.32,
         "balloonCount": 0,
@@ -13486,7 +13468,7 @@
     "title": "Heat Haze Shadow 2",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 765,
         "rollSeconds": 0.0,
         "balloonCount": 62,
@@ -13504,7 +13486,7 @@
     "title": "もしもし神様",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.5,
         "totalNotes": 656,
         "rollSeconds": 0.93,
         "balloonCount": 23,
@@ -13570,7 +13552,7 @@
     "title": "ロキ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 576,
         "rollSeconds": 9.1,
         "balloonCount": 6,
@@ -13750,7 +13732,7 @@
     "title": "Dreadnought",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 632,
         "rollSeconds": 15.58,
         "balloonCount": 30,
@@ -13852,7 +13834,7 @@
     "title": "音虫をつかまえろ！",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.2,
         "totalNotes": 646,
         "rollSeconds": 0.0,
         "balloonCount": 31,
@@ -13870,7 +13852,7 @@
     "title": "ププッとフムッとかいけつダンス",
     "constants": {
       "oni": {
-        "constant": 3.5,
+        "constant": 3.0,
         "totalNotes": 382,
         "rollSeconds": 1.606,
         "balloonCount": 78,
@@ -13906,7 +13888,7 @@
     "title": "Calamity Fortune",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 1069,
         "rollSeconds": 1.32,
         "balloonCount": 2,
@@ -13990,7 +13972,7 @@
     "title": "にゃーにゃーにゃー",
     "constants": {
       "oni": {
-        "constant": 10.9,
+        "constant": 10.8,
         "totalNotes": 859,
         "rollSeconds": 0.79,
         "balloonCount": 8,
@@ -14044,7 +14026,7 @@
     "title": "流浪の琥珀姫",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 495,
         "rollSeconds": 3.86,
         "balloonCount": 15,
@@ -14062,7 +14044,7 @@
     "title": "氷竜 ～Kooryu～",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 734,
         "rollSeconds": 10.92,
         "balloonCount": 0,
@@ -14158,7 +14140,7 @@
     "title": "撥条少女時計",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.3,
         "totalNotes": 647,
         "rollSeconds": 1.08,
         "balloonCount": 0,
@@ -14176,7 +14158,7 @@
     "title": "グラーヴェ",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 650,
         "rollSeconds": 1.11,
         "balloonCount": 32,
@@ -14194,7 +14176,7 @@
     "title": "刀剣乱舞",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 399,
         "rollSeconds": 7.29,
         "balloonCount": 27,
@@ -14248,7 +14230,7 @@
     "title": "夢と希望",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 694,
         "rollSeconds": 6.62,
         "balloonCount": 32,
@@ -14344,7 +14326,7 @@
     "title": "ナマハゲノウタ",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.2,
         "totalNotes": 780,
         "rollSeconds": 1.68,
         "balloonCount": 4,
@@ -14362,7 +14344,7 @@
     "title": "クラシックメドレー（ロック編）",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 606,
         "rollSeconds": 5.67,
         "balloonCount": 45,
@@ -14380,7 +14362,7 @@
     "title": "via lactea",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 593,
         "rollSeconds": 0.67,
         "balloonCount": 0,
@@ -14434,7 +14416,7 @@
     "title": "幕末維新譚",
     "constants": {
       "oni": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 1109,
         "rollSeconds": 4.02,
         "balloonCount": 119,
@@ -14452,7 +14434,7 @@
     "title": "今",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 323,
         "rollSeconds": 2.97,
         "balloonCount": 0,
@@ -14506,7 +14488,7 @@
     "title": "ヒミツキチューバー",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 393,
         "rollSeconds": 1.93,
         "balloonCount": 36,
@@ -14524,7 +14506,7 @@
     "title": "God knows...",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 6.8,
         "totalNotes": 580,
         "rollSeconds": 10.28,
         "balloonCount": 48,
@@ -14536,7 +14518,7 @@
         "hsChange": 4.16
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 938,
         "rollSeconds": 5.89,
         "balloonCount": 144,
@@ -14590,7 +14572,7 @@
     "title": "TOKIMEKI♡ですとろいやー！！",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.4,
         "totalNotes": 782,
         "rollSeconds": 1.02,
         "balloonCount": 0,
@@ -14608,7 +14590,7 @@
     "title": "レトロマニア狂想曲",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 724,
         "rollSeconds": 2.92,
         "balloonCount": 29,
@@ -14626,7 +14608,7 @@
     "title": "キレキャリオン",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 439,
         "rollSeconds": 1.35,
         "balloonCount": 10,
@@ -14644,7 +14626,7 @@
     "title": "猫サンキュー",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 639,
         "rollSeconds": 2.62,
         "balloonCount": 50,
@@ -14662,7 +14644,7 @@
     "title": "神様の言うとおりに",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.4,
         "totalNotes": 550,
         "rollSeconds": 8.36,
         "balloonCount": 15,
@@ -14674,7 +14656,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.4,
         "totalNotes": 833,
         "rollSeconds": 0.33,
         "balloonCount": 0,
@@ -14728,7 +14710,7 @@
     "title": "白日",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 319,
         "rollSeconds": 1.24,
         "balloonCount": 35,
@@ -14746,7 +14728,7 @@
     "title": "Freeway3234",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 465,
         "rollSeconds": 0.9,
         "balloonCount": 20,
@@ -14764,7 +14746,7 @@
     "title": "エリンギのエクボ",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.8,
         "totalNotes": 687,
         "rollSeconds": 1.02,
         "balloonCount": 12,
@@ -14782,7 +14764,7 @@
     "title": "愛なんだぜ",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 624,
         "rollSeconds": 7.42,
         "balloonCount": 10,
@@ -14848,7 +14830,7 @@
     "title": "アバみ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 653,
         "rollSeconds": 6.2,
         "balloonCount": 60,
@@ -14884,7 +14866,7 @@
     "title": "命に嫌われている。",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 7.0,
         "totalNotes": 379,
         "rollSeconds": 2.05,
         "balloonCount": 0,
@@ -14896,7 +14878,7 @@
         "hsChange": 8.56
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 486,
         "rollSeconds": 0.55,
         "balloonCount": 0,
@@ -14932,7 +14914,7 @@
     "title": "Parousia",
     "constants": {
       "oni": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 787,
         "rollSeconds": 0.0,
         "balloonCount": 38,
@@ -14950,7 +14932,7 @@
     "title": "waitin' for u",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 762,
         "rollSeconds": 1.08,
         "balloonCount": 15,
@@ -14968,7 +14950,7 @@
     "title": "ALiVE",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 830,
         "rollSeconds": 0.0,
         "balloonCount": 32,
@@ -14986,7 +14968,7 @@
     "title": "JOIN THE PAC -太鼓の達人 Ver.-",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 606,
         "rollSeconds": 1.25,
         "balloonCount": 32,
@@ -15022,7 +15004,7 @@
     "title": "Leviathan",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 754,
         "rollSeconds": 3.7,
         "balloonCount": 22,
@@ -15040,7 +15022,7 @@
     "title": "ANiMA",
     "constants": {
       "oni": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 839,
         "rollSeconds": 1.09,
         "balloonCount": 8,
@@ -15106,7 +15088,7 @@
     "title": "いっそこのままで",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 765,
         "rollSeconds": 0.89,
         "balloonCount": 6,
@@ -15142,7 +15124,7 @@
     "title": "Fly again！",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 551,
         "rollSeconds": 5.87,
         "balloonCount": 22,
@@ -15160,7 +15142,7 @@
     "title": "限界クリエイター応援歌",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 649,
         "rollSeconds": 0.85,
         "balloonCount": 90,
@@ -15214,7 +15196,7 @@
     "title": "RESTART",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 544,
         "rollSeconds": 10.91,
         "balloonCount": 0,
@@ -15232,7 +15214,7 @@
     "title": "ミュートすればいいじゃん。",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 527,
         "rollSeconds": 7.2,
         "balloonCount": 80,
@@ -15286,7 +15268,7 @@
     "title": "Favorite Days",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 503,
         "rollSeconds": 9.25,
         "balloonCount": 22,
@@ -15322,7 +15304,7 @@
     "title": "アイドル狂戦士(feat.佐藤貴文)",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 580,
         "rollSeconds": 6.31,
         "balloonCount": 16,
@@ -15334,7 +15316,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 854,
         "rollSeconds": 4.92,
         "balloonCount": 18,
@@ -15574,7 +15556,7 @@
     "title": "イイコ進化論（feat. O-LuHA）",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 677,
         "rollSeconds": 3.06,
         "balloonCount": 108,
@@ -15610,7 +15592,7 @@
     "title": "Hand Over (Prod. TEMPLIME)",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 651,
         "rollSeconds": 6.14,
         "balloonCount": 30,
@@ -15628,7 +15610,7 @@
     "title": "Hyper Bass (feat. Yunomi)",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 877,
         "rollSeconds": 0.0,
         "balloonCount": 12,
@@ -15664,7 +15646,7 @@
     "title": "Shining Lights (feat. PSYQUI)",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 862,
         "rollSeconds": 7.588,
         "balloonCount": 28,
@@ -15730,7 +15712,7 @@
     "title": "PONPOKO RHYTHM",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 554,
         "rollSeconds": 1.88,
         "balloonCount": 0,
@@ -15766,7 +15748,7 @@
     "title": "幾望の月",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 9.9,
         "totalNotes": 839,
         "rollSeconds": 1.7,
         "balloonCount": 4,
@@ -15802,7 +15784,7 @@
     "title": "Diving Drive",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 892,
         "rollSeconds": 0.0,
         "balloonCount": 23,
@@ -15820,7 +15802,7 @@
     "title": "ニジイロバトン",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.0,
         "totalNotes": 713,
         "rollSeconds": 8.61,
         "balloonCount": 92,
@@ -15838,7 +15820,7 @@
     "title": "轟け！太鼓の達人",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 765,
         "rollSeconds": 3.99,
         "balloonCount": 69,
@@ -15856,7 +15838,7 @@
     "title": "VIVIVIVID",
     "constants": {
       "oni": {
-        "constant": 10.1,
+        "constant": 10.2,
         "totalNotes": 668,
         "rollSeconds": 0.14,
         "balloonCount": 6,
@@ -15940,7 +15922,7 @@
     "title": "カ！カ！カ！カミズモード！",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.6,
         "totalNotes": 446,
         "rollSeconds": 6.14,
         "balloonCount": 13,
@@ -15958,7 +15940,7 @@
     "title": "テオ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 762,
         "rollSeconds": 2.68,
         "balloonCount": 12,
@@ -15976,7 +15958,7 @@
     "title": "あまてらすJK",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.2,
         "totalNotes": 702,
         "rollSeconds": 4.84,
         "balloonCount": 0,
@@ -16012,7 +15994,7 @@
     "title": "傾奇者、罷り通る！",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.9,
         "totalNotes": 694,
         "rollSeconds": 4.04,
         "balloonCount": 0,
@@ -16096,7 +16078,7 @@
     "title": "テルミービート",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.2,
         "totalNotes": 761,
         "rollSeconds": 3.5,
         "balloonCount": 0,
@@ -16114,7 +16096,7 @@
     "title": "twinkle night (feat. somunia)",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 590,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -16144,7 +16126,7 @@
     "title": "Connected World",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 729,
         "rollSeconds": 5.56,
         "balloonCount": 42,
@@ -16198,7 +16180,7 @@
     "title": "なんどでも笑おう",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 515,
         "rollSeconds": 11.42,
         "balloonCount": 72,
@@ -16252,7 +16234,7 @@
     "title": "廻廻奇譚",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 482,
         "rollSeconds": 0.0,
         "balloonCount": 65,
@@ -16288,7 +16270,7 @@
     "title": "どんちゃん音頭",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.4,
         "totalNotes": 472,
         "rollSeconds": 0.0,
         "balloonCount": 16,
@@ -16306,7 +16288,7 @@
     "title": "ボクらのまえに道はある",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 682,
         "rollSeconds": 0.0,
         "balloonCount": 27,
@@ -16336,7 +16318,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 11.1,
+        "constant": 11.2,
         "totalNotes": 1001,
         "rollSeconds": 0.491,
         "balloonCount": 119,
@@ -16372,7 +16354,7 @@
     "title": "Hold me tight",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 547,
         "rollSeconds": 10.9,
         "balloonCount": 39,
@@ -16426,7 +16408,7 @@
     "title": "駆け抜けてゆく",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 583,
         "rollSeconds": 4.888,
         "balloonCount": 111,
@@ -16456,7 +16438,7 @@
         "hsChange": 0.2
       },
       "ura": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 707,
         "rollSeconds": 6.35,
         "balloonCount": 0,
@@ -16474,7 +16456,7 @@
     "title": "Donder Time",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 458,
         "rollSeconds": 4.17,
         "balloonCount": 0,
@@ -16558,7 +16540,7 @@
     "title": "睡蓮花",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 644,
         "rollSeconds": 3.08,
         "balloonCount": 65,
@@ -16624,7 +16606,7 @@
     "title": "ヴァンパイア",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.6,
         "totalNotes": 641,
         "rollSeconds": 6.22,
         "balloonCount": 26,
@@ -16642,7 +16624,7 @@
     "title": "Hello, Worldooon!!",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.3,
         "totalNotes": 494,
         "rollSeconds": 8.535,
         "balloonCount": 17,
@@ -16672,7 +16654,7 @@
     "title": "Emma",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 571,
         "rollSeconds": 3.738,
         "balloonCount": 24,
@@ -16702,7 +16684,7 @@
     "title": "Aloft in the wind",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.6,
         "totalNotes": 441,
         "rollSeconds": 3.632,
         "balloonCount": 57,
@@ -16732,7 +16714,7 @@
     "title": "幻想に咲いた花",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 740,
         "rollSeconds": 4.11,
         "balloonCount": 28,
@@ -16750,7 +16732,7 @@
     "title": "マツヨイナイトバグ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 678,
         "rollSeconds": 9.34,
         "balloonCount": 69,
@@ -16900,7 +16882,7 @@
     "title": "憎悪と醜悪の花束",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 722,
         "rollSeconds": 3.99,
         "balloonCount": 127,
@@ -16912,7 +16894,7 @@
         "hsChange": 48.15
       },
       "ura": {
-        "constant": 11.6,
+        "constant": 11.5,
         "totalNotes": 1170,
         "rollSeconds": 1.91,
         "balloonCount": 67,
@@ -16966,7 +16948,7 @@
     "title": "燃えよサファイア",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 10.0,
         "totalNotes": 788,
         "rollSeconds": 3.83,
         "balloonCount": 22,
@@ -17068,7 +17050,7 @@
     "title": "仮想現実のテレスコープ",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 742,
         "rollSeconds": 4.0,
         "balloonCount": 190,
@@ -17098,7 +17080,7 @@
     "title": "平等院鳳凰ドン vs 鳥獣戯カッ",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 555,
         "rollSeconds": 7.18,
         "balloonCount": 32,
@@ -17128,7 +17110,7 @@
     "title": "第六感",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 540,
         "rollSeconds": 6.53,
         "balloonCount": 20,
@@ -17164,7 +17146,7 @@
     "title": "グッバイ宣言",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 686,
         "rollSeconds": 5.97,
         "balloonCount": 0,
@@ -17182,7 +17164,7 @@
     "title": "ウサテイ",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 693,
         "rollSeconds": 0.92,
         "balloonCount": 29,
@@ -17200,7 +17182,7 @@
     "title": "大好きな太鼓の音",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 795,
         "rollSeconds": 6.76,
         "balloonCount": 0,
@@ -17230,7 +17212,7 @@
     "title": "踊",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 439,
         "rollSeconds": 0.0,
         "balloonCount": 46,
@@ -17278,7 +17260,7 @@
     "title": "僕の戦争",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 411,
         "rollSeconds": 8.4,
         "balloonCount": 0,
@@ -17314,7 +17296,7 @@
     "title": "Agent Hustle & Dr. Hassle",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 693,
         "rollSeconds": 0.729,
         "balloonCount": 0,
@@ -17326,7 +17308,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 518,
         "rollSeconds": 0.729,
         "balloonCount": 20,
@@ -17362,7 +17344,7 @@
     "title": "Solitude Star",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.9,
         "totalNotes": 766,
         "rollSeconds": 10.449,
         "balloonCount": 79,
@@ -17416,7 +17398,7 @@
     "title": "The Future of the 太鼓ドラム",
     "constants": {
       "oni": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 974,
         "rollSeconds": 9.31,
         "balloonCount": 21,
@@ -17428,7 +17410,7 @@
         "hsChange": 81.84
       },
       "ura": {
-        "constant": 11.4,
+        "constant": 11.3,
         "totalNotes": 1400,
         "rollSeconds": 4.07,
         "balloonCount": 24,
@@ -17500,7 +17482,7 @@
     "title": "シンデレラ",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.2,
         "totalNotes": 661,
         "rollSeconds": 0.73,
         "balloonCount": 6,
@@ -17512,7 +17494,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 978,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -17530,7 +17512,7 @@
     "title": "GO ON ～未来へ～",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 8.9,
         "totalNotes": 720,
         "rollSeconds": 2.72,
         "balloonCount": 22,
@@ -17548,7 +17530,7 @@
     "title": "業 -善なる神とこの世の悪について-",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 875,
         "rollSeconds": 7.0,
         "balloonCount": 84,
@@ -17578,7 +17560,7 @@
     "title": "めためた☆ゆにば～すっ！",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 564,
         "rollSeconds": 4.72,
         "balloonCount": 48,
@@ -17608,7 +17590,7 @@
     "title": "ラブユー☆どんちゃん",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 509,
         "rollSeconds": 3.615,
         "balloonCount": 0,
@@ -17620,7 +17602,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 448,
         "rollSeconds": 3.615,
         "balloonCount": 0,
@@ -17740,7 +17722,7 @@
     "title": "アニマル",
     "constants": {
       "oni": {
-        "constant": 8.1,
+        "constant": 8.2,
         "totalNotes": 824,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -17794,7 +17776,7 @@
     "title": "ねこくじら",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 591,
         "rollSeconds": 1.07,
         "balloonCount": 27,
@@ -17806,7 +17788,7 @@
         "hsChange": 1.64
       },
       "ura": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 826,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -17824,7 +17806,7 @@
     "title": "ON SAY GO SAY",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 346,
         "rollSeconds": 1.27,
         "balloonCount": 121,
@@ -17854,7 +17836,7 @@
     "title": "SORA‐Ⅴ コズミックバード",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.8,
         "totalNotes": 354,
         "rollSeconds": 0.0,
         "balloonCount": 148,
@@ -17890,7 +17872,7 @@
     "title": "Kill My Fortune",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 627,
         "rollSeconds": 1.95,
         "balloonCount": 0,
@@ -17920,7 +17902,7 @@
     "title": "神っぽいな",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 468,
         "rollSeconds": 2.25,
         "balloonCount": 28,
@@ -17938,7 +17920,7 @@
     "title": "Aragami",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.5,
         "totalNotes": 839,
         "rollSeconds": 1.48,
         "balloonCount": 22,
@@ -17956,7 +17938,7 @@
     "title": "せかいのおと - sekai note -",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 463,
         "rollSeconds": 5.56,
         "balloonCount": 62,
@@ -17974,7 +17956,7 @@
     "title": "Libera Ray",
     "constants": {
       "oni": {
-        "constant": 10.4,
+        "constant": 10.3,
         "totalNotes": 860,
         "rollSeconds": 7.98,
         "balloonCount": 105,
@@ -17992,7 +17974,7 @@
     "title": "Irodoru♡Future",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.7,
         "totalNotes": 850,
         "rollSeconds": 1.49,
         "balloonCount": 81,
@@ -18028,7 +18010,7 @@
     "title": "女神な世界 Ⅱ",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.0,
         "totalNotes": 778,
         "rollSeconds": 0.0,
         "balloonCount": 50,
@@ -18064,7 +18046,7 @@
     "title": "怪物",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 466,
         "rollSeconds": 0.0,
         "balloonCount": 2,
@@ -18118,7 +18100,7 @@
     "title": "新時代",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 542,
         "rollSeconds": 13.55,
         "balloonCount": 24,
@@ -18166,7 +18148,7 @@
     "title": "１・２・３",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 427,
         "rollSeconds": 1.29,
         "balloonCount": 35,
@@ -18250,7 +18232,7 @@
     "title": "SUPERNOVA",
     "constants": {
       "oni": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 937,
         "rollSeconds": 1.532,
         "balloonCount": 31,
@@ -18280,7 +18262,7 @@
     "title": "狂瀾怒濤",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 655,
         "rollSeconds": 9.44,
         "balloonCount": 100,
@@ -18328,7 +18310,7 @@
     "title": "DANCE MONKEY",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 397,
         "rollSeconds": 2.09,
         "balloonCount": 40,
@@ -18346,7 +18328,7 @@
     "title": "くらべられっ子",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 469,
         "rollSeconds": 10.31,
         "balloonCount": 107,
@@ -18364,7 +18346,7 @@
     "title": "神竜 ～Shinryu～",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 973,
         "rollSeconds": 1.25,
         "balloonCount": 9,
@@ -18394,7 +18376,7 @@
     "title": "SORA‐Ⅳ ブンパソング",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 555,
         "rollSeconds": 0.58,
         "balloonCount": 3,
@@ -18412,7 +18394,7 @@
     "title": "ラブリーX",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 509,
         "rollSeconds": 1.72,
         "balloonCount": 0,
@@ -18424,7 +18406,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.4,
+        "constant": 8.6,
         "totalNotes": 662,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -18442,7 +18424,7 @@
     "title": "まいにちがドンダフル",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.3,
         "totalNotes": 595,
         "rollSeconds": 10.98,
         "balloonCount": 71,
@@ -18457,7 +18439,7 @@
   },
   {
     "id": 1133,
-    "title": "Doppelgängers",
+    "title": "Doppelgangers",
     "constants": {
       "oni": {
         "constant": 8.7,
@@ -18505,7 +18487,7 @@
   },
   {
     "id": 1135,
-    "title": "河内音頭 ～ふしづくし～",
+    "title": "河内音頭 〜ふしづくし〜",
     "constants": {
       "oni": {
         "constant": 6.6,
@@ -18544,7 +18526,7 @@
     "title": "泥の分際で私だけの大切を奪おうだなんて",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.4,
         "totalNotes": 770,
         "rollSeconds": 1.91,
         "balloonCount": 15,
@@ -18562,7 +18544,7 @@
     "title": "チキチキバンバン",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.6,
         "totalNotes": 448,
         "rollSeconds": 6.33,
         "balloonCount": 6,
@@ -18610,7 +18592,7 @@
         "hsChange": 0.06
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 879,
         "rollSeconds": 1.0,
         "balloonCount": 8,
@@ -18658,7 +18640,7 @@
     "title": "LΔchesis",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 654,
         "rollSeconds": 1.33,
         "balloonCount": 48,
@@ -18688,7 +18670,7 @@
     "title": "ヘイラ",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 555,
         "rollSeconds": 7.93,
         "balloonCount": 58,
@@ -18736,7 +18718,7 @@
     "title": "Habit",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.4,
         "totalNotes": 384,
         "rollSeconds": 4.45,
         "balloonCount": 142,
@@ -18766,7 +18748,7 @@
     "title": "フォニイ",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.6,
         "totalNotes": 574,
         "rollSeconds": 7.76,
         "balloonCount": 63,
@@ -18778,7 +18760,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.3,
         "totalNotes": 921,
         "rollSeconds": 1.38,
         "balloonCount": 0,
@@ -18796,7 +18778,7 @@
     "title": "残響散歌",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 436,
         "rollSeconds": 1.17,
         "balloonCount": 0,
@@ -18814,7 +18796,7 @@
     "title": "Smile & Go!!",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 494,
         "rollSeconds": 4.78,
         "balloonCount": 63,
@@ -18868,7 +18850,7 @@
     "title": "アメリカンパトロール",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 7.4,
         "totalNotes": 415,
         "rollSeconds": 0.57,
         "balloonCount": 22,
@@ -18886,7 +18868,7 @@
     "title": "NAKED GLOW",
     "constants": {
       "oni": {
-        "constant": 9.1,
+        "constant": 9.0,
         "totalNotes": 823,
         "rollSeconds": 0.0,
         "balloonCount": 37,
@@ -18916,7 +18898,7 @@
         "hsChange": 0.13
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 594,
         "rollSeconds": 0.0,
         "balloonCount": 16,
@@ -18934,7 +18916,7 @@
     "title": "詩謳兎揺蕩兎",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 680,
         "rollSeconds": 4.17,
         "balloonCount": 4,
@@ -18952,7 +18934,7 @@
     "title": "スリケンランナー",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 678,
         "rollSeconds": 2.19,
         "balloonCount": 62,
@@ -18970,7 +18952,7 @@
     "title": "閃光ヴァルキュリア",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 9.0,
         "totalNotes": 615,
         "rollSeconds": 1.09,
         "balloonCount": 12,
@@ -18988,7 +18970,7 @@
     "title": "Ahoy!! 我ら宝鐘海賊団☆",
     "constants": {
       "oni": {
-        "constant": 7.6,
+        "constant": 7.8,
         "totalNotes": 428,
         "rollSeconds": 5.03,
         "balloonCount": 49,
@@ -19024,7 +19006,7 @@
     "title": "白日夢、霧雨に溶けて",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.9,
         "totalNotes": 690,
         "rollSeconds": 0.42,
         "balloonCount": 20,
@@ -19042,7 +19024,7 @@
     "title": "アンチェイン・ガール！",
     "constants": {
       "oni": {
-        "constant": 8.7,
+        "constant": 8.9,
         "totalNotes": 725,
         "rollSeconds": 8.58,
         "balloonCount": 64,
@@ -19078,7 +19060,7 @@
     "title": "RAINBOW★SKY",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.5,
         "totalNotes": 768,
         "rollSeconds": 0.14,
         "balloonCount": 22,
@@ -19096,7 +19078,7 @@
     "title": "オーバード",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 441,
         "rollSeconds": 3.04,
         "balloonCount": 0,
@@ -19108,7 +19090,7 @@
         "hsChange": 0.32
       },
       "ura": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 733,
         "rollSeconds": 1.27,
         "balloonCount": 0,
@@ -19126,7 +19108,7 @@
     "title": "いろはすてっぷ！",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 536,
         "rollSeconds": 2.24,
         "balloonCount": 118,
@@ -19162,7 +19144,7 @@
     "title": "共奏鼓祭",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 647,
         "rollSeconds": 6.2,
         "balloonCount": 0,
@@ -19174,7 +19156,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.3,
+        "constant": 10.4,
         "totalNotes": 870,
         "rollSeconds": 6.2,
         "balloonCount": 0,
@@ -19228,7 +19210,7 @@
     "title": "爆裂タウマゼイン (Prod. チバニャン)",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.9,
         "totalNotes": 827,
         "rollSeconds": 6.89,
         "balloonCount": 62,
@@ -19246,7 +19228,7 @@
     "title": "IAM (feat. Shogo, Tsubasa)",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 591,
         "rollSeconds": 0.0,
         "balloonCount": 24,
@@ -19264,7 +19246,7 @@
     "title": "Crush (Prod. SHOW)",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 502,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -19282,7 +19264,7 @@
     "title": "good night baby (feat. Moe Shop)",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 405,
         "rollSeconds": 5.52,
         "balloonCount": 0,
@@ -19300,7 +19282,7 @@
     "title": "わたしの一番かわいいところ",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 357,
         "rollSeconds": 2.03,
         "balloonCount": 45,
@@ -19318,7 +19300,7 @@
     "title": "ハルジオン",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 479,
         "rollSeconds": 0.95,
         "balloonCount": 20,
@@ -19336,7 +19318,7 @@
     "title": "閃光",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.1,
         "totalNotes": 644,
         "rollSeconds": 5.82,
         "balloonCount": 6,
@@ -19354,7 +19336,7 @@
     "title": "奇想天外ふしぎをどうぞ",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.4,
         "totalNotes": 231,
         "rollSeconds": 2.36,
         "balloonCount": 0,
@@ -19372,7 +19354,7 @@
     "title": "スキに理由はいらないじゃん！",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.6,
         "totalNotes": 604,
         "rollSeconds": 2.15,
         "balloonCount": 72,
@@ -19390,7 +19372,7 @@
     "title": "ドローイン☆ドリーム！",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 532,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -19408,7 +19390,7 @@
     "title": "どんちゃんしたい！",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 768,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -19444,7 +19426,7 @@
     "title": "Bukan Cinta Biasa",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 321,
         "rollSeconds": 11.68,
         "balloonCount": 88,
@@ -19480,7 +19462,7 @@
     "title": "逆戦 NI ZHAN",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 337,
         "rollSeconds": 3.0,
         "balloonCount": 0,
@@ -19534,7 +19516,7 @@
     "title": "トウキョウ・シャンディ・ランデヴ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 490,
         "rollSeconds": 0.62,
         "balloonCount": 18,
@@ -19552,7 +19534,7 @@
     "title": "オトナブルー",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 446,
         "rollSeconds": 1.31,
         "balloonCount": 66,
@@ -19570,7 +19552,7 @@
     "title": "私は最強",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 435,
         "rollSeconds": 3.7,
         "balloonCount": 45,
@@ -19588,7 +19570,7 @@
     "title": "ラ・モレーナ・クモナイ",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 613,
         "rollSeconds": 2.91,
         "balloonCount": 35,
@@ -19618,7 +19600,7 @@
     "title": "Re：End of a Dream",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.4,
         "totalNotes": 602,
         "rollSeconds": 0.4,
         "balloonCount": 7,
@@ -19648,7 +19630,7 @@
     "title": "Brain Power",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.2,
         "totalNotes": 708,
         "rollSeconds": 4.49,
         "balloonCount": 0,
@@ -19666,7 +19648,7 @@
     "title": "Subtitle",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 7.8,
         "totalNotes": 279,
         "rollSeconds": 1.77,
         "balloonCount": 38,
@@ -19714,7 +19696,7 @@
     "title": "われら無敵のドコン団",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.1,
         "totalNotes": 540,
         "rollSeconds": 10.07,
         "balloonCount": 20,
@@ -19750,7 +19732,7 @@
     "title": "Back to Life",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 6.8,
         "totalNotes": 275,
         "rollSeconds": 1.095,
         "balloonCount": 75,
@@ -19768,7 +19750,7 @@
     "title": "GO ON YA WAY(feat. 超学生)",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 447,
         "rollSeconds": 0.0,
         "balloonCount": 19,
@@ -19804,7 +19786,7 @@
     "title": "AtoZ,I leave toZ",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.5,
         "totalNotes": 759,
         "rollSeconds": 0.0,
         "balloonCount": 11,
@@ -19840,7 +19822,7 @@
     "title": "アイドル",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.4,
         "totalNotes": 479,
         "rollSeconds": 1.235,
         "balloonCount": 21,
@@ -19858,7 +19840,7 @@
     "title": "ドキメキダイアリー",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 457,
         "rollSeconds": 2.19,
         "balloonCount": 0,
@@ -19876,7 +19858,7 @@
     "title": "酔いどれ知らず",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 483,
         "rollSeconds": 5.0,
         "balloonCount": 0,
@@ -20032,7 +20014,7 @@
     "title": "ちゅ、多様性。",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 468,
         "rollSeconds": 4.739,
         "balloonCount": 0,
@@ -20062,7 +20044,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.8,
+        "constant": 9.0,
         "totalNotes": 599,
         "rollSeconds": 0.0,
         "balloonCount": 15,
@@ -20092,7 +20074,7 @@
         "hsChange": 0.14
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 825,
         "rollSeconds": 1.89,
         "balloonCount": 8,
@@ -20110,7 +20092,7 @@
     "title": "Destr0yer",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.0,
         "totalNotes": 405,
         "rollSeconds": 7.33,
         "balloonCount": 74,
@@ -20182,7 +20164,7 @@
         "hsChange": 0.34
       },
       "ura": {
-        "constant": 8.9,
+        "constant": 8.8,
         "totalNotes": 716,
         "rollSeconds": 5.0,
         "balloonCount": 6,
@@ -20266,7 +20248,7 @@
     "title": "ツバサグラビティ",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 328,
         "rollSeconds": 7.147,
         "balloonCount": 52,
@@ -20284,7 +20266,7 @@
     "title": "RHYTHM CONNECT",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.5,
         "totalNotes": 645,
         "rollSeconds": 1.803,
         "balloonCount": 12,
@@ -20302,7 +20284,7 @@
     "title": "Fallen Angel",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 845,
         "rollSeconds": 3.32,
         "balloonCount": 14,
@@ -20338,7 +20320,7 @@
     "title": "ラビットホール",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 916,
         "rollSeconds": 0.318,
         "balloonCount": 65,
@@ -20356,7 +20338,7 @@
     "title": "Unwelcome School (MRM REMIX)",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.6,
         "totalNotes": 985,
         "rollSeconds": 0.95,
         "balloonCount": 20,
@@ -20404,7 +20386,7 @@
     "title": "Mood Swing",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 552,
         "rollSeconds": 6.281,
         "balloonCount": 42,
@@ -20434,7 +20416,7 @@
     "title": "勇者",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.8,
         "totalNotes": 362,
         "rollSeconds": 1.44,
         "balloonCount": 22,
@@ -20446,7 +20428,7 @@
         "hsChange": 16.6
       },
       "ura": {
-        "constant": 9.6,
+        "constant": 9.8,
         "totalNotes": 657,
         "rollSeconds": 0.43,
         "balloonCount": 18,
@@ -20482,7 +20464,7 @@
     "title": "コットンキャンディえいえいおー！",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 695,
         "rollSeconds": 3.988,
         "balloonCount": 13,
@@ -20500,7 +20482,7 @@
     "title": "ひとりごつ～バンドVer.～",
     "constants": {
       "oni": {
-        "constant": 3.5,
+        "constant": 3.0,
         "totalNotes": 172,
         "rollSeconds": 6.7,
         "balloonCount": 20,
@@ -20518,7 +20500,7 @@
     "title": "CHEMY×STORY",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 326,
         "rollSeconds": 3.32,
         "balloonCount": 50,
@@ -20536,7 +20518,7 @@
     "title": "女神な世界 Ⅰ",
     "constants": {
       "oni": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 632,
         "rollSeconds": 0.0,
         "balloonCount": 39,
@@ -20554,7 +20536,7 @@
     "title": "デザートde焼肉（サハラ編）",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.4,
         "totalNotes": 759,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -20572,7 +20554,7 @@
     "title": "モノクロームユートピア",
     "constants": {
       "oni": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 682,
         "rollSeconds": 0.0,
         "balloonCount": 54,
@@ -20590,7 +20572,7 @@
     "title": "大勇者タツドン ～最強のマイバチ伝説～",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.7,
         "totalNotes": 487,
         "rollSeconds": 9.03,
         "balloonCount": 95,
@@ -20608,7 +20590,7 @@
     "title": "最果の魔法使い",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 809,
         "rollSeconds": 6.428,
         "balloonCount": 24,
@@ -20638,7 +20620,7 @@
     "title": "ロケットモード",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 698,
         "rollSeconds": 3.47,
         "balloonCount": 45,
@@ -20656,7 +20638,7 @@
     "title": "リヒト",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.2,
         "totalNotes": 403,
         "rollSeconds": 6.91,
         "balloonCount": 90,
@@ -20668,7 +20650,7 @@
         "hsChange": 2.66
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 9.2,
         "totalNotes": 645,
         "rollSeconds": 0.0,
         "balloonCount": 82,
@@ -20686,7 +20668,7 @@
     "title": "Neon Sign",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 392,
         "rollSeconds": 2.0,
         "balloonCount": 0,
@@ -20758,7 +20740,7 @@
     "title": "転生〈TENSEI〉-喜与志が待つ強者-",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 611,
         "rollSeconds": 7.35,
         "balloonCount": 80,
@@ -20785,7 +20767,7 @@
   },
   {
     "id": 1257,
-    "title": "濃紅（レヴィ・エリファ）",
+    "title": "濃紅(レヴィ・エリファ)",
     "constants": {
       "oni": {
         "constant": 10.3,
@@ -20803,10 +20785,10 @@
   },
   {
     "id": 1258,
-    "title": "Fly away（伏見ガク）",
+    "title": "Fly away(伏見ガク)",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 579,
         "rollSeconds": 2.4,
         "balloonCount": 0,
@@ -20821,10 +20803,10 @@
   },
   {
     "id": 1259,
-    "title": "ファミレスウォーズ（本間ひまわり）",
+    "title": "ファミレスウォーズ(本間ひまわり)",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.7,
         "totalNotes": 723,
         "rollSeconds": 5.69,
         "balloonCount": 23,
@@ -20839,7 +20821,7 @@
   },
   {
     "id": 1260,
-    "title": "CYBERgenicALICE（先斗寧）",
+    "title": "CYBERgenicALICE(先斗寧)",
     "constants": {
       "oni": {
         "constant": 10.2,
@@ -20857,10 +20839,10 @@
   },
   {
     "id": 1261,
-    "title": "マリオネットピュア（リゼ・ヘルエスタ）",
+    "title": "マリオネットピュア(リゼ・ヘルエスタ)",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.3,
         "totalNotes": 619,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -20875,7 +20857,7 @@
   },
   {
     "id": 1262,
-    "title": "Phoenix（レオス・ヴィンセント）",
+    "title": "Phoenix(レオス・ヴィンセント)",
     "constants": {
       "oni": {
         "constant": 7.6,
@@ -20896,7 +20878,7 @@
     "title": "いっそこのままで(山神カルタ)",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.5,
         "totalNotes": 765,
         "rollSeconds": 0.895,
         "balloonCount": 6,
@@ -20911,10 +20893,10 @@
   },
   {
     "id": 1264,
-    "title": "ヘイラ（ましろ爻）",
+    "title": "ヘイラ(ましろ爻)",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.3,
         "totalNotes": 555,
         "rollSeconds": 7.93,
         "balloonCount": 58,
@@ -20941,10 +20923,10 @@
   },
   {
     "id": 1265,
-    "title": "エンジェル ドリーム（フレン・E・ルスタリオ）",
+    "title": "エンジェル ドリーム(フレン・E・ルスタリオ)",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 765,
         "rollSeconds": 5.889,
         "balloonCount": 0,
@@ -20971,10 +20953,10 @@
   },
   {
     "id": 1266,
-    "title": "ボクハシンセ（花畑チャイカ）",
+    "title": "ボクハシンセ(花畑チャイカ)",
     "constants": {
       "oni": {
-        "constant": 9.2,
+        "constant": 9.3,
         "totalNotes": 612,
         "rollSeconds": 3.0,
         "balloonCount": 27,
@@ -20992,7 +20974,7 @@
     "title": "唱",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 460,
         "rollSeconds": 2.651,
         "balloonCount": 22,
@@ -21010,7 +20992,7 @@
     "title": "きゅうくらりん",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.0,
         "totalNotes": 605,
         "rollSeconds": 1.36,
         "balloonCount": 32,
@@ -21040,7 +21022,7 @@
     "title": "ハロ",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 6.8,
         "totalNotes": 386,
         "rollSeconds": 1.41,
         "balloonCount": 0,
@@ -21076,7 +21058,7 @@
     "title": "ラ・カンパネラ",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 395,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -21124,7 +21106,7 @@
     "title": "トンデ・ミテ",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 559,
         "rollSeconds": 4.09,
         "balloonCount": 39,
@@ -21142,7 +21124,7 @@
     "title": "風魔モジュール6768",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 644,
         "rollSeconds": 3.89,
         "balloonCount": 24,
@@ -21154,7 +21136,7 @@
         "hsChange": 76.73
       },
       "ura": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 906,
         "rollSeconds": 0.0,
         "balloonCount": 23,
@@ -21172,7 +21154,7 @@
     "title": "星座わーど",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 512,
         "rollSeconds": 6.0,
         "balloonCount": 18,
@@ -21190,7 +21172,7 @@
     "title": "とける",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 788,
         "rollSeconds": 3.25,
         "balloonCount": 0,
@@ -21220,7 +21202,7 @@
     "title": "空想打破",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 491,
         "rollSeconds": 3.33,
         "balloonCount": 0,
@@ -21256,7 +21238,7 @@
     "title": "キャラメル・ジャンキヰ",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.2,
         "totalNotes": 880,
         "rollSeconds": 1.913,
         "balloonCount": 7,
@@ -21274,7 +21256,7 @@
     "title": "Just Dance",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 337,
         "rollSeconds": 2.88,
         "balloonCount": 18,
@@ -21310,7 +21292,7 @@
     "title": "無人の島",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 358,
         "rollSeconds": 1.643,
         "balloonCount": 64,
@@ -21418,7 +21400,7 @@
     "title": "ダンスホール",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 472,
         "rollSeconds": 1.273,
         "balloonCount": 20,
@@ -21436,7 +21418,7 @@
     "title": "最高到達点",
     "constants": {
       "oni": {
-        "constant": 6.8,
+        "constant": 7.0,
         "totalNotes": 371,
         "rollSeconds": 1.553,
         "balloonCount": 14,
@@ -21466,7 +21448,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 452,
         "rollSeconds": 2.873,
         "balloonCount": 20,
@@ -21484,7 +21466,7 @@
     "title": "サラえる",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 599,
         "rollSeconds": 0.426,
         "balloonCount": 0,
@@ -21520,7 +21502,7 @@
     "title": "miracle shooting star",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 593,
         "rollSeconds": 3.917,
         "balloonCount": 26,
@@ -21610,7 +21592,7 @@
     "title": "ハッピーシンセサイザ",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 331,
         "rollSeconds": 0.0,
         "balloonCount": 34,
@@ -21640,7 +21622,7 @@
     "title": "who are you? who are you?",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.2,
         "totalNotes": 575,
         "rollSeconds": 4.674,
         "balloonCount": 24,
@@ -21652,7 +21634,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 949,
         "rollSeconds": 1.804,
         "balloonCount": 84,
@@ -21688,7 +21670,7 @@
     "title": "七色ハーモニー",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 493,
         "rollSeconds": 0.0,
         "balloonCount": 38,
@@ -21736,7 +21718,7 @@
         "hsChange": 23.86
       },
       "ura": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 1090,
         "rollSeconds": 1.437,
         "balloonCount": 31,
@@ -21754,7 +21736,7 @@
     "title": "ココドコ？多分ドッカ島！",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 8.9,
         "totalNotes": 615,
         "rollSeconds": 0.94,
         "balloonCount": 47,
@@ -21766,7 +21748,7 @@
         "hsChange": 35.55
       },
       "ura": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 939,
         "rollSeconds": 0.0,
         "balloonCount": 50,
@@ -21814,7 +21796,7 @@
     "title": "あめふりのロンド",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 523,
         "rollSeconds": 9.38,
         "balloonCount": 32,
@@ -21844,7 +21826,7 @@
     "title": "誰我為",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 360,
         "rollSeconds": 0.616,
         "balloonCount": 74,
@@ -21856,7 +21838,7 @@
         "hsChange": 3.03
       },
       "ura": {
-        "constant": 9.0,
+        "constant": 8.9,
         "totalNotes": 526,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -21874,7 +21856,7 @@
     "title": "Bling-Bang-Bang-Born",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 528,
         "rollSeconds": 2.23,
         "balloonCount": 2,
@@ -21892,7 +21874,7 @@
     "title": "オレンジ",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 439,
         "rollSeconds": 5.725,
         "balloonCount": 24,
@@ -21910,7 +21892,7 @@
     "title": "青春コンプレックス",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.9,
         "totalNotes": 569,
         "rollSeconds": 2.552,
         "balloonCount": 0,
@@ -21994,7 +21976,7 @@
     "title": "オペレート・ミー",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 719,
         "rollSeconds": 7.029,
         "balloonCount": 82,
@@ -22024,7 +22006,7 @@
     "title": "for Q",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 808,
         "rollSeconds": 2.038,
         "balloonCount": 0,
@@ -22036,7 +22018,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.8,
+        "constant": 10.9,
         "totalNotes": 1111,
         "rollSeconds": 0.0,
         "balloonCount": 12,
@@ -22054,7 +22036,7 @@
     "title": "響け！太鼓の達人",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.4,
         "totalNotes": 567,
         "rollSeconds": 1.061,
         "balloonCount": 45,
@@ -22090,7 +22072,7 @@
     "title": "女神な世界 Ⅲ",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.0,
         "totalNotes": 678,
         "rollSeconds": 2.715,
         "balloonCount": 80,
@@ -22126,7 +22108,7 @@
     "title": "モルフォ",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.6,
         "totalNotes": 714,
         "rollSeconds": 3.556,
         "balloonCount": 32,
@@ -22144,7 +22126,7 @@
     "title": "SHEESH",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 397,
         "rollSeconds": 3.284,
         "balloonCount": 36,
@@ -22162,7 +22144,7 @@
     "title": "はいよろこんで",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.0,
         "totalNotes": 395,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -22174,7 +22156,7 @@
         "hsChange": 0.1
       },
       "ura": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 512,
         "rollSeconds": 0.612,
         "balloonCount": 0,
@@ -22258,7 +22240,7 @@
     "title": "Miss You 3000",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 211,
         "rollSeconds": 0.0,
         "balloonCount": 17,
@@ -22348,7 +22330,7 @@
     "title": "シカ色デイズ",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 422,
         "rollSeconds": 2.54,
         "balloonCount": 69,
@@ -22366,7 +22348,7 @@
     "title": "全力Dive",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 535,
         "rollSeconds": 11.414,
         "balloonCount": 50,
@@ -22402,7 +22384,7 @@
     "title": "ライラック",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 433,
         "rollSeconds": 7.435,
         "balloonCount": 12,
@@ -22420,7 +22402,7 @@
     "title": "粛聖!! ロリ神レクイエム☆",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 547,
         "rollSeconds": 6.273,
         "balloonCount": 20,
@@ -22456,7 +22438,7 @@
     "title": "おはようメルちゃん",
     "constants": {
       "oni": {
-        "constant": 4.5,
+        "constant": 4.0,
         "totalNotes": 279,
         "rollSeconds": 1.875,
         "balloonCount": 0,
@@ -22468,7 +22450,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.0,
+        "constant": 9.2,
         "totalNotes": 566,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -22486,7 +22468,7 @@
     "title": "メズマライザー",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 7.0,
         "totalNotes": 505,
         "rollSeconds": 8.028,
         "balloonCount": 30,
@@ -22498,7 +22480,7 @@
         "hsChange": 2.33
       },
       "ura": {
-        "constant": 9.8,
+        "constant": 9.9,
         "totalNotes": 968,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -22516,7 +22498,7 @@
     "title": "トルコ行進曲",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.6,
         "totalNotes": 581,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -22528,7 +22510,7 @@
         "hsChange": 3.62
       },
       "ura": {
-        "constant": 9.7,
+        "constant": 9.8,
         "totalNotes": 832,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -22564,7 +22546,7 @@
     "title": "魔法式逃走奇譚☆ミ",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 678,
         "rollSeconds": 2.894,
         "balloonCount": 54,
@@ -22654,7 +22636,7 @@
     "title": "INTERNET YAMERO",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 10.1,
         "totalNotes": 976,
         "rollSeconds": 2.488,
         "balloonCount": 4,
@@ -22684,7 +22666,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.6,
         "totalNotes": 584,
         "rollSeconds": 1.859,
         "balloonCount": 18,
@@ -22702,7 +22684,7 @@
     "title": "歌劇「リコレクトブルー」",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 765,
         "rollSeconds": 4.529,
         "balloonCount": 16,
@@ -22786,7 +22768,7 @@
     "title": "晩餐歌",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.0,
         "totalNotes": 565,
         "rollSeconds": 1.942,
         "balloonCount": 0,
@@ -22876,7 +22858,7 @@
     "title": "GAME CHANGER",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 603,
         "rollSeconds": 1.13,
         "balloonCount": 30,
@@ -22894,7 +22876,7 @@
     "title": "蒼鷺之火",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.5,
         "totalNotes": 683,
         "rollSeconds": 1.839,
         "balloonCount": 58,
@@ -22906,7 +22888,7 @@
         "hsChange": 4.21
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 968,
         "rollSeconds": 1.638,
         "balloonCount": 20,
@@ -22924,7 +22906,7 @@
     "title": "Argent Memories",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.2,
         "totalNotes": 636,
         "rollSeconds": 0.0,
         "balloonCount": 178,
@@ -22942,7 +22924,7 @@
     "title": "宝の丘",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 7.6,
         "totalNotes": 463,
         "rollSeconds": 1.99,
         "balloonCount": 56,
@@ -22954,7 +22936,7 @@
         "hsChange": 24.68
       },
       "ura": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 752,
         "rollSeconds": 3.108,
         "balloonCount": 5,
@@ -23068,7 +23050,7 @@
         "hsChange": 80.56
       },
       "ura": {
-        "constant": 10.5,
+        "constant": 10.6,
         "totalNotes": 819,
         "rollSeconds": 0.468,
         "balloonCount": 5,
@@ -23086,7 +23068,7 @@
     "title": "Radiant",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.6,
         "totalNotes": 557,
         "rollSeconds": 3.164,
         "balloonCount": 70,
@@ -23104,7 +23086,7 @@
     "title": "Break Through the Dome",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.7,
         "totalNotes": 913,
         "rollSeconds": 4.763,
         "balloonCount": 22,
@@ -23140,7 +23122,7 @@
     "title": "Oshama Scramble!",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 9.0,
         "totalNotes": 677,
         "rollSeconds": 8.63,
         "balloonCount": 17,
@@ -23170,7 +23152,7 @@
     "title": "ミンナノカキゴオリ",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.6,
         "totalNotes": 765,
         "rollSeconds": 9.965,
         "balloonCount": 43,
@@ -23188,7 +23170,7 @@
     "title": "Taiko Session",
     "constants": {
       "oni": {
-        "constant": 7.2,
+        "constant": 7.0,
         "totalNotes": 230,
         "rollSeconds": 1.0,
         "balloonCount": 0,
@@ -23200,7 +23182,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 408,
         "rollSeconds": 0.607,
         "balloonCount": 0,
@@ -23254,7 +23236,7 @@
     "title": "ケセラセラ",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 350,
         "rollSeconds": 3.0,
         "balloonCount": 0,
@@ -23302,7 +23284,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.4,
         "totalNotes": 828,
         "rollSeconds": 4.904,
         "balloonCount": 4,
@@ -23332,7 +23314,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.1,
         "totalNotes": 586,
         "rollSeconds": 0.819,
         "balloonCount": 0,
@@ -23368,7 +23350,7 @@
     "title": "イガク",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 631,
         "rollSeconds": 0.972,
         "balloonCount": 27,
@@ -23398,7 +23380,7 @@
     "title": "EXRiXiS",
     "constants": {
       "oni": {
-        "constant": 9.4,
+        "constant": 9.6,
         "totalNotes": 761,
         "rollSeconds": 5.057,
         "balloonCount": 40,
@@ -23410,7 +23392,7 @@
         "hsChange": 3.39
       },
       "ura": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 1015,
         "rollSeconds": 5.192,
         "balloonCount": 42,
@@ -23428,7 +23410,7 @@
     "title": "RAGING FIRE",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.4,
         "totalNotes": 700,
         "rollSeconds": 0.0,
         "balloonCount": 60,
@@ -23470,7 +23452,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.9,
+        "constant": 10.0,
         "totalNotes": 694,
         "rollSeconds": 2.084,
         "balloonCount": 30,
@@ -23488,7 +23470,7 @@
     "title": "雲間を游ぐ",
     "constants": {
       "oni": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 678,
         "rollSeconds": 1.582,
         "balloonCount": 0,
@@ -23542,7 +23524,7 @@
     "title": "LIMIT BREAK DREAMERS",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 617,
         "rollSeconds": 5.127,
         "balloonCount": 55,
@@ -23614,7 +23596,7 @@
     "title": "テトリス",
     "constants": {
       "oni": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 919,
         "rollSeconds": 2.325,
         "balloonCount": 2,
@@ -23704,7 +23686,7 @@
     "title": "siren's eye",
     "constants": {
       "oni": {
-        "constant": 11.1,
+        "constant": 11.2,
         "totalNotes": 997,
         "rollSeconds": 2.093,
         "balloonCount": 0,
@@ -23740,7 +23722,7 @@
     "title": "倍倍FIGHT!",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.1,
         "totalNotes": 629,
         "rollSeconds": 1.878,
         "balloonCount": 21,
@@ -23776,7 +23758,7 @@
     "title": "WINNER！ゴジュウジャー！",
     "constants": {
       "oni": {
-        "constant": 7.0,
+        "constant": 6.8,
         "totalNotes": 433,
         "rollSeconds": 3.71,
         "balloonCount": 0,
@@ -23806,7 +23788,7 @@
         "hsChange": 22.61
       },
       "ura": {
-        "constant": 11.0,
+        "constant": 11.1,
         "totalNotes": 1030,
         "rollSeconds": 2.333,
         "balloonCount": 83,
@@ -23824,7 +23806,7 @@
     "title": "案山子姫 -Princess Scarecrow-",
     "constants": {
       "oni": {
-        "constant": 9.0,
+        "constant": 9.1,
         "totalNotes": 629,
         "rollSeconds": 2.8,
         "balloonCount": 29,
@@ -23836,7 +23818,7 @@
         "hsChange": 16.96
       },
       "ura": {
-        "constant": 10.6,
+        "constant": 10.5,
         "totalNotes": 987,
         "rollSeconds": 2.1,
         "balloonCount": 0,
@@ -23854,7 +23836,7 @@
     "title": "ピッチフェイダ",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.7,
         "totalNotes": 622,
         "rollSeconds": 8.976,
         "balloonCount": 44,
@@ -23884,7 +23866,7 @@
     "title": "桂月",
     "constants": {
       "oni": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 421,
         "rollSeconds": 8.169,
         "balloonCount": 57,
@@ -23932,7 +23914,7 @@
     "title": "Love Love Love Love Loveばきゅーんっ！",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 8.7,
         "totalNotes": 555,
         "rollSeconds": 9.662,
         "balloonCount": 60,
@@ -23950,7 +23932,7 @@
     "title": "初",
     "constants": {
       "oni": {
-        "constant": 7.1,
+        "constant": 7.0,
         "totalNotes": 416,
         "rollSeconds": 4.0,
         "balloonCount": 15,
@@ -24070,7 +24052,7 @@
     "title": "★楽園☆CASINO GALAXY！",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 8.0,
         "totalNotes": 400,
         "rollSeconds": 2.09,
         "balloonCount": 42,
@@ -24088,7 +24070,7 @@
     "title": "てらてら",
     "constants": {
       "oni": {
-        "constant": 8.8,
+        "constant": 9.1,
         "totalNotes": 745,
         "rollSeconds": 2.023,
         "balloonCount": 0,
@@ -24106,7 +24088,7 @@
     "title": "モア！ジャンプ！モア！",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.6,
         "totalNotes": 821,
         "rollSeconds": 4.53,
         "balloonCount": 0,
@@ -24124,7 +24106,7 @@
     "title": "CR詠ZY",
     "constants": {
       "oni": {
-        "constant": 8.4,
+        "constant": 8.2,
         "totalNotes": 479,
         "rollSeconds": 3.114,
         "balloonCount": 3,
@@ -24142,7 +24124,7 @@
     "title": "トンデモワンダーズ",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.5,
         "totalNotes": 802,
         "rollSeconds": 2.035,
         "balloonCount": 20,
@@ -24160,7 +24142,7 @@
     "title": "バグ",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 642,
         "rollSeconds": 0.78,
         "balloonCount": 0,
@@ -24178,7 +24160,7 @@
     "title": "アリア",
     "constants": {
       "oni": {
-        "constant": 9.5,
+        "constant": 9.4,
         "totalNotes": 825,
         "rollSeconds": 3.502,
         "balloonCount": 0,
@@ -24214,7 +24196,7 @@
     "title": "Re:Play!!",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.8,
         "totalNotes": 625,
         "rollSeconds": 4.921,
         "balloonCount": 25,
@@ -24250,7 +24232,7 @@
     "title": "モニタリング",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.1,
         "totalNotes": 422,
         "rollSeconds": 0.834,
         "balloonCount": 0,
@@ -24268,7 +24250,7 @@
     "title": "混沌ブギ",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.9,
         "totalNotes": 885,
         "rollSeconds": 4.605,
         "balloonCount": 50,
@@ -24286,7 +24268,7 @@
     "title": "神々が恋した幻想郷",
     "constants": {
       "oni": {
-        "constant": 9.8,
+        "constant": 9.6,
         "totalNotes": 806,
         "rollSeconds": 5.806,
         "balloonCount": 0,
@@ -24304,7 +24286,7 @@
     "title": "SORA-VIII ネビュラトレイル",
     "constants": {
       "oni": {
-        "constant": 9.6,
+        "constant": 9.7,
         "totalNotes": 888,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -24322,7 +24304,7 @@
     "title": "汚れなきクソ野郎ども",
     "constants": {
       "oni": {
-        "constant": 7.4,
+        "constant": 7.8,
         "totalNotes": 515,
         "rollSeconds": 7.671,
         "balloonCount": 12,
@@ -24340,7 +24322,7 @@
     "title": "Daddy's Style -今夜はダディダディ-",
     "constants": {
       "oni": {
-        "constant": 6.6,
+        "constant": 7.0,
         "totalNotes": 517,
         "rollSeconds": 6.448,
         "balloonCount": 0,
@@ -24352,7 +24334,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.2,
+        "constant": 9.5,
         "totalNotes": 783,
         "rollSeconds": 1.612,
         "balloonCount": 16,
@@ -24370,7 +24352,7 @@
     "title": "IRIS OUT",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 8.8,
         "totalNotes": 372,
         "rollSeconds": 2.407,
         "balloonCount": 26,
@@ -24406,7 +24388,7 @@
     "title": "カーマイン",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 7.6,
         "totalNotes": 418,
         "rollSeconds": 1.598,
         "balloonCount": 19,
@@ -24478,7 +24460,7 @@
     "title": "バブル・リップ・レイヴ・マシン",
     "constants": {
       "oni": {
-        "constant": 10.7,
+        "constant": 10.8,
         "totalNotes": 687,
         "rollSeconds": 7.031,
         "balloonCount": 86,
@@ -24508,7 +24490,7 @@
         "hsChange": 0.48
       },
       "ura": {
-        "constant": 8.3,
+        "constant": 8.2,
         "totalNotes": 715,
         "rollSeconds": 0.747,
         "balloonCount": 24,
@@ -24544,7 +24526,7 @@
     "title": "UMAのフォーストレーニ千グ 【BPM150編】",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 7.0,
         "totalNotes": 208,
         "rollSeconds": 0.0,
         "balloonCount": 26,
@@ -24556,7 +24538,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.1,
+        "constant": 10.0,
         "totalNotes": 356,
         "rollSeconds": 0.0,
         "balloonCount": 26,
@@ -24574,7 +24556,7 @@
     "title": "UMAのフォーストレーニ千グ 【BPM180編】",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.2,
         "totalNotes": 276,
         "rollSeconds": 0.0,
         "balloonCount": 2,
@@ -24586,7 +24568,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.1,
         "totalNotes": 334,
         "rollSeconds": 0.0,
         "balloonCount": 2,
@@ -24604,7 +24586,7 @@
     "title": "UMAのフォーストレーニ千グ 【BPM240編】",
     "constants": {
       "oni": {
-        "constant": 10.0,
+        "constant": 9.6,
         "totalNotes": 316,
         "rollSeconds": 0.604,
         "balloonCount": 0,
@@ -24616,7 +24598,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 10.1,
+        "constant": 10.0,
         "totalNotes": 364,
         "rollSeconds": 0.604,
         "balloonCount": 0,
@@ -24652,7 +24634,7 @@
     "title": "スパートシンドローマー",
     "constants": {
       "oni": {
-        "constant": 8.2,
+        "constant": 8.3,
         "totalNotes": 478,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -24670,7 +24652,7 @@
     "title": "無敵的ハピネス！(SOS団5人Ver.)",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 503,
         "rollSeconds": 6.65,
         "balloonCount": 0,
@@ -24718,7 +24700,7 @@
     "title": "ツナガリズム",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.6,
         "totalNotes": 622,
         "rollSeconds": 3.571,
         "balloonCount": 7,
@@ -24772,7 +24754,7 @@
     "title": "クスシキ",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 412,
         "rollSeconds": 0.0,
         "balloonCount": 0,
@@ -24790,7 +24772,7 @@
     "title": "革命道中",
     "constants": {
       "oni": {
-        "constant": 7.5,
+        "constant": 7.6,
         "totalNotes": 438,
         "rollSeconds": 0.753,
         "balloonCount": 0,
@@ -24862,7 +24844,7 @@
     "title": "マルトーアンフェール",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 9.0,
         "totalNotes": 779,
         "rollSeconds": 5.629,
         "balloonCount": 39,
@@ -24892,7 +24874,7 @@
     "title": "どんちゃんえかき歌",
     "constants": {
       "oni": {
-        "constant": 7.3,
+        "constant": 7.4,
         "totalNotes": 368,
         "rollSeconds": 5.999,
         "balloonCount": 74,
@@ -24904,7 +24886,7 @@
         "hsChange": 0.11
       },
       "ura": {
-        "constant": 3.5,
+        "constant": 3.0,
         "totalNotes": 199,
         "rollSeconds": 0.0,
         "balloonCount": 20,
@@ -24914,6 +24896,24 @@
         "separation": 0.0,
         "bpmChange": 0.19,
         "hsChange": 4.08
+      }
+    }
+  },
+  {
+    "id": 1467,
+    "title": "さいたま2001",
+    "constants": {
+      "oni": {
+        "constant": 8.2,
+        "totalNotes": 570,
+        "rollSeconds": 2.35,
+        "balloonCount": 50,
+        "composite": 9.3,
+        "avgDensity": 31.39,
+        "instDensity": 35.49,
+        "separation": 0.0,
+        "bpmChange": 0.0,
+        "hsChange": 0.0
       }
     }
   },
@@ -24932,6 +24932,42 @@
         "separation": 14.84,
         "bpmChange": 0.0,
         "hsChange": 11.99
+      }
+    }
+  },
+  {
+    "id": 1480,
+    "title": "エール・エクス・マキナ♡",
+    "constants": {
+      "oni": {
+        "constant": 9.1,
+        "totalNotes": 765,
+        "rollSeconds": 7.78,
+        "balloonCount": 39,
+        "composite": 48.7,
+        "avgDensity": 27.14,
+        "instDensity": 26.18,
+        "separation": 4.37,
+        "bpmChange": 1.19,
+        "hsChange": 1.53
+      }
+    }
+  },
+  {
+    "id": 1481,
+    "title": "ダーク・エクス・マキナ！",
+    "constants": {
+      "oni": {
+        "constant": 11.4,
+        "totalNotes": 1333,
+        "rollSeconds": 5.469,
+        "balloonCount": 105,
+        "composite": 43.92,
+        "avgDensity": 77.02,
+        "instDensity": 100.0,
+        "separation": 20.03,
+        "bpmChange": 85.79,
+        "hsChange": 100.0
       }
     }
   },
@@ -24958,7 +24994,7 @@
     "title": "オーバーライド",
     "constants": {
       "oni": {
-        "constant": 9.7,
+        "constant": 9.6,
         "totalNotes": 994,
         "rollSeconds": 3.039,
         "balloonCount": 10,
@@ -24988,7 +25024,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 539,
         "rollSeconds": 8.0,
         "balloonCount": 4,
@@ -25006,7 +25042,7 @@
     "title": "賜物",
     "constants": {
       "oni": {
-        "constant": 8.6,
+        "constant": 8.7,
         "totalNotes": 301,
         "rollSeconds": 1.273,
         "balloonCount": 88,
@@ -25036,7 +25072,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.3,
+        "constant": 9.2,
         "totalNotes": 658,
         "rollSeconds": 1.376,
         "balloonCount": 5,
@@ -25108,7 +25144,7 @@
     "title": "レナセールセレナーデ",
     "constants": {
       "oni": {
-        "constant": 7.7,
+        "constant": 7.8,
         "totalNotes": 408,
         "rollSeconds": 3.352,
         "balloonCount": 12,
@@ -25126,7 +25162,7 @@
     "title": "絵空事",
     "constants": {
       "oni": {
-        "constant": 8.5,
+        "constant": 8.8,
         "totalNotes": 525,
         "rollSeconds": 0.3,
         "balloonCount": 0,
@@ -25162,7 +25198,7 @@
     "title": "I am not Alice.",
     "constants": {
       "oni": {
-        "constant": 10.6,
+        "constant": 10.7,
         "totalNotes": 872,
         "rollSeconds": 8.308,
         "balloonCount": 0,
@@ -25198,7 +25234,7 @@
     "title": "シャニムニ花火",
     "constants": {
       "oni": {
-        "constant": 7.8,
+        "constant": 8.0,
         "totalNotes": 461,
         "rollSeconds": 8.247,
         "balloonCount": 8,
@@ -25216,7 +25252,7 @@
     "title": "恋の約束 -2025ver.-",
     "constants": {
       "oni": {
-        "constant": 8.9,
+        "constant": 9.1,
         "totalNotes": 639,
         "rollSeconds": 4.579,
         "balloonCount": 12,
@@ -25252,7 +25288,7 @@
     "title": "ほんまやで☆なんでやねん☆しらんけど",
     "constants": {
       "oni": {
-        "constant": 8.0,
+        "constant": 8.2,
         "totalNotes": 594,
         "rollSeconds": 6.373,
         "balloonCount": 38,
@@ -25282,7 +25318,7 @@
         "hsChange": 0.0
       },
       "ura": {
-        "constant": 9.1,
+        "constant": 8.9,
         "totalNotes": 480,
         "rollSeconds": 2.288,
         "balloonCount": 0,
@@ -25300,7 +25336,7 @@
     "title": "はちゃめちゃわちゃライフ！",
     "constants": {
       "oni": {
-        "constant": 7.9,
+        "constant": 8.0,
         "totalNotes": 468,
         "rollSeconds": 2.642,
         "balloonCount": 0,
