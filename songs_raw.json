@@ -7618,7 +7618,7 @@
         "hsChange": 21.04
       },
       "ura": {
-        "constant": 10.2,
+        "constant": 10.3,
         "totalNotes": 639,
         "rollSeconds": 0.847,
         "balloonCount": 0,
@@ -11024,24 +11024,6 @@
         "separation": 0.0,
         "bpmChange": 0.0,
         "hsChange": 0.0
-      }
-    }
-  },
-  {
-    "id": 666,
-    "title": "ヒカリアレ",
-    "constants": {
-      "oni": {
-        "constant": 9.1,
-        "totalNotes": 639,
-        "rollSeconds": 0.96,
-        "balloonCount": 17,
-        "composite": 24.2,
-        "avgDensity": 52.34,
-        "instDensity": 24.58,
-        "separation": 7.86,
-        "bpmChange": 0.0,
-        "hsChange": 74.85
       }
     }
   },
@@ -16816,7 +16798,7 @@
     "title": "魑魅魍魎",
     "constants": {
       "oni": {
-        "constant": 11.2,
+        "constant": 11.3,
         "totalNotes": 1085,
         "rollSeconds": 6.02,
         "balloonCount": 8,
@@ -17204,24 +17186,6 @@
         "separation": 18.55,
         "bpmChange": 0.0,
         "hsChange": 40.29
-      }
-    }
-  },
-  {
-    "id": 1059,
-    "title": "踊",
-    "constants": {
-      "oni": {
-        "constant": 8.7,
-        "totalNotes": 439,
-        "rollSeconds": 0.0,
-        "balloonCount": 46,
-        "composite": 28.49,
-        "avgDensity": 18.91,
-        "instDensity": 22.6,
-        "separation": 9.52,
-        "bpmChange": 0.0,
-        "hsChange": 18.29
       }
     }
   },
@@ -20496,24 +20460,6 @@
     }
   },
   {
-    "id": 1244,
-    "title": "CHEMY×STORY",
-    "constants": {
-      "oni": {
-        "constant": 4.0,
-        "totalNotes": 326,
-        "rollSeconds": 3.32,
-        "balloonCount": 50,
-        "composite": 0.0,
-        "avgDensity": 16.85,
-        "instDensity": 4.01,
-        "separation": 0.31,
-        "bpmChange": 0.0,
-        "hsChange": 0.0
-      }
-    }
-  },
-  {
     "id": 1245,
     "title": "女神な世界 Ⅰ",
     "constants": {
@@ -20602,7 +20548,7 @@
         "hsChange": 25.63
       },
       "ura": {
-        "constant": 11.2,
+        "constant": 11.3,
         "totalNotes": 1167,
         "rollSeconds": 2.238,
         "balloonCount": 5,
@@ -20630,54 +20576,6 @@
         "separation": 5.59,
         "bpmChange": 0.0,
         "hsChange": 0.0
-      }
-    }
-  },
-  {
-    "id": 1251,
-    "title": "リヒト",
-    "constants": {
-      "oni": {
-        "constant": 7.2,
-        "totalNotes": 403,
-        "rollSeconds": 6.91,
-        "balloonCount": 90,
-        "composite": 1.1,
-        "avgDensity": 18.33,
-        "instDensity": 15.43,
-        "separation": 13.51,
-        "bpmChange": 81.54,
-        "hsChange": 2.66
-      },
-      "ura": {
-        "constant": 9.2,
-        "totalNotes": 645,
-        "rollSeconds": 0.0,
-        "balloonCount": 82,
-        "composite": 44.38,
-        "avgDensity": 47.62,
-        "instDensity": 38.52,
-        "separation": 4.28,
-        "bpmChange": 86.28,
-        "hsChange": 3.16
-      }
-    }
-  },
-  {
-    "id": 1252,
-    "title": "Neon Sign",
-    "constants": {
-      "oni": {
-        "constant": 8.1,
-        "totalNotes": 392,
-        "rollSeconds": 2.0,
-        "balloonCount": 0,
-        "composite": 18.9,
-        "avgDensity": 19.95,
-        "instDensity": 4.36,
-        "separation": 4.09,
-        "bpmChange": 63.09,
-        "hsChange": 2.42
       }
     }
   },
@@ -21718,7 +21616,7 @@
         "hsChange": 23.86
       },
       "ura": {
-        "constant": 10.8,
+        "constant": 10.7,
         "totalNotes": 1090,
         "rollSeconds": 1.437,
         "balloonCount": 31,
